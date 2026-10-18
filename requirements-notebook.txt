@@ -1,0 +1,2 @@
+# Optional: needed only to run notebooks in JupyterLab.
+jupyterlab>=4,<5

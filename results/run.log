@@ -1,0 +1,161 @@
+Random seed: 3411
+Majority class from training: 0
+train: rows=840, class counts={0: 520, 1: 320}
+validation: rows=180, class counts={0: 111, 1: 69}
+test: rows=180, class counts={0: 116, 1: 64}
+Baseline train: accuracy=0.6190, F1=0.0000
+Baseline validation: accuracy=0.6167, F1=0.0000
+Baseline test: accuracy=0.6444, F1=0.0000
+Implemented: information gain, midpoint search and all ensemble experiments.
+Maximum depth allowed: 2
+Actual depth: 2
+Internal nodes: 4
+train: accuracy=0.6583, F1=0.3608; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.0393
+validation: accuracy=0.6333, F1=0.3654; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0167
+test: accuracy=0.7111, F1=0.4694; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0667
+
+Maximum depth allowed: 3
+Actual depth: 3
+Internal nodes: 14
+train: accuracy=0.7024, F1=0.5675; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.0833
+validation: accuracy=0.6000, F1=0.4375; baseline accuracy=0.6167, F1=0.0000; accuracy difference=-0.0167
+test: accuracy=0.6889, F1=0.5333; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0444
+
+Maximum depth allowed: 4
+Actual depth: 4
+Internal nodes: 43
+train: accuracy=0.7417, F1=0.6316; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.1226
+validation: accuracy=0.5944, F1=0.4160; baseline accuracy=0.6167, F1=0.0000; accuracy difference=-0.0222
+test: accuracy=0.6611, F1=0.4959; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0167
+
+Maximum depth allowed: 5
+Actual depth: 5
+Internal nodes: 99
+train: accuracy=0.7905, F1=0.6955; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.1714
+validation: accuracy=0.5333, F1=0.3333; baseline accuracy=0.6167, F1=0.0000; accuracy difference=-0.0833
+test: accuracy=0.6222, F1=0.4333; baseline accuracy=0.6444, F1=0.0000; accuracy difference=-0.0222
+
+Maximum depth allowed: unrestricted
+Actual depth: 8
+Internal nodes: 258
+train: accuracy=0.8952, F1=0.8498; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.2762
+validation: accuracy=0.5000, F1=0.3382; baseline accuracy=0.6167, F1=0.0000; accuracy difference=-0.1167
+test: accuracy=0.6222, F1=0.4237; baseline accuracy=0.6444, F1=0.0000; accuracy difference=-0.0222
+
+First three levels of the unrestricted categorical tree:
+contract_type
+  [Month-to-month] payment_method
+  [Month-to-month]   [Bank transfer] region [subtree hidden; majority=0]
+  [Month-to-month]   [Credit card] internet_service [subtree hidden; majority=0]
+  [Month-to-month]   [Electronic check] region [subtree hidden; majority=1]
+  [Month-to-month]   [Mailed check] region [subtree hidden; majority=0]
+  [One year] senior_citizen
+  [One year]   [No] internet_service [subtree hidden; majority=0]
+  [One year]   [Yes] internet_service [subtree hidden; majority=0]
+  [Two year] region
+  [Two year]   [Coastal] internet_service [subtree hidden; majority=0]
+  [Two year]   [Metro] payment_method [subtree hidden; majority=0]
+  [Two year]   [Regional] payment_method [subtree hidden; majority=0]
+  [Two year]   [Rural] payment_method [subtree hidden; majority=0]
+tenure_months: threshold=10.5000, information gain=0.076829
+monthly_charges: threshold=71.4100, information gain=0.006799
+avg_monthly_gb: threshold=40.2500, information gain=0.006151
+support_tickets_90d: threshold=1.5000, information gain=0.006915
+Tree using categorical and numerical attributes:
+contract_type
+  [Month-to-month] tenure_months <= 6.500
+  [Month-to-month]   [T] Predict 1
+  [Month-to-month]   [F] Predict 0
+  [One year] late_payments_6m <= 3.500
+  [One year]   [T] Predict 0
+  [One year]   [F] Predict 1
+  [Two year] tenure_months <= 32.500
+  [Two year]   [T] Predict 0
+  [Two year]   [F] Predict 0
+Bagging: B = 5
+train: accuracy=0.9536, F1=0.9378; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.3345
+validation: accuracy=0.6611, F1=0.5041; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0444
+test: accuracy=0.6556, F1=0.5303; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0111
+Average tree depth: 12.00
+
+Bagging: B = 10
+train: accuracy=0.9714, F1=0.9614; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.3524
+validation: accuracy=0.6778, F1=0.4912; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0611
+test: accuracy=0.6778, F1=0.5167; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0333
+Average tree depth: 12.70
+
+Bagging: B = 20
+train: accuracy=0.9929, F1=0.9906; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.3738
+validation: accuracy=0.6833, F1=0.5128; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0667
+test: accuracy=0.7167, F1=0.5984; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0722
+Average tree depth: 12.90
+
+Random forest: B=10, m=3, d=15
+train: accuracy=0.9655, F1=0.9527; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.3464
+validation: accuracy=0.6333, F1=0.4211; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0167
+test: accuracy=0.7000, F1=0.5000; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0556
+Average tree depth: 14.50
+
+Random forest: B=10, m=15, d=15
+train: accuracy=0.9714, F1=0.9614; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.3524
+validation: accuracy=0.6778, F1=0.4912; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0611
+test: accuracy=0.6778, F1=0.5167; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0333
+Average tree depth: 12.70
+
+m=d predictions match Bagging: {'train': True, 'validation': True, 'test': True}
+Vote weights (validation accuracy): [0.6722, 0.6722, 0.6278, 0.6778, 0.6667, 0.6444, 0.6278, 0.6778, 0.65, 0.6778, 0.6889, 0.7111, 0.6722, 0.6611, 0.6111, 0.6611, 0.6333, 0.6111, 0.65, 0.6389]
+train: accuracy=0.7488, F1=0.5577; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.1298
+validation: accuracy=0.6944, F1=0.4762; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0778
+test: accuracy=0.7278, F1=0.5149; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0833
+Average tree depth: 4.00
+
+train: accuracy=0.7536, F1=0.5767; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.1345
+validation: accuracy=0.7000, F1=0.5000; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0833
+test: accuracy=0.7333, F1=0.5294; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0889
+Average tree depth: 4.00
+
+train: accuracy=0.7238, F1=0.5451; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.1048
+validation: accuracy=0.6500, F1=0.4522; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0333
+test: accuracy=0.7333, F1=0.5789; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0889
+
+Validation metrics reflect weight selection; test labels do not set weights.
+Interpretable comparison: first three levels of the mixed-feature tree
+contract_type
+  [Month-to-month] tenure_months <= 6.500
+  [Month-to-month]   [T] late_payments_6m <= 1.500 [subtree hidden; majority=1]
+  [Month-to-month]   [F] late_payments_6m <= 1.500 [subtree hidden; majority=0]
+  [One year] late_payments_6m <= 3.500
+  [One year]   [T] tenure_months <= 28.500 [subtree hidden; majority=0]
+  [One year]   [F] avg_monthly_gb <= 304.600 [subtree hidden; majority=1]
+  [Two year] tenure_months <= 32.500
+  [Two year]   [T] internet_service [subtree hidden; majority=0]
+  [Two year]   [F] tenure_months <= 57.500 [subtree hidden; majority=0]
+bagging: early stopping = False
+Training time: 0.780871 seconds
+train: accuracy=0.9929, F1=0.9906; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.3738
+validation: accuracy=0.6833, F1=0.5128; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0667
+test: accuracy=0.7167, F1=0.5984; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0722
+Average tree depth: 12.90
+
+bagging: early stopping = True
+Training time: 0.630116 seconds
+train: accuracy=0.8738, F1=0.8153; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.2548
+validation: accuracy=0.6444, F1=0.4667; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0278
+test: accuracy=0.7056, F1=0.5620; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0611
+Average tree depth: 10.75
+
+random_forest: early stopping = False
+Training time: 0.227354 seconds
+train: accuracy=0.9881, F1=0.9841; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.3690
+validation: accuracy=0.6278, F1=0.4274; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0111
+test: accuracy=0.7000, F1=0.5345; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0556
+Average tree depth: 14.20
+
+random_forest: early stopping = True
+Training time: 0.129463 seconds
+train: accuracy=0.7429, F1=0.5046; baseline accuracy=0.6190, F1=0.0000; accuracy difference=+0.1238
+validation: accuracy=0.6333, F1=0.2326; baseline accuracy=0.6167, F1=0.0000; accuracy difference=+0.0167
+test: accuracy=0.6944, F1=0.3038; baseline accuracy=0.6444, F1=0.0000; accuracy difference=+0.0500
+Average tree depth: 9.45
+
+Saved results/results.json and results/metrics.csv

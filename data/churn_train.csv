@@ -1,0 +1,841 @@
+customer_id,region,contract_type,internet_service,payment_method,streaming_bundle,device_protection,paperless_billing,senior_citizen,tenure_months,monthly_charges,avg_monthly_gb,support_tickets_90d,late_payments_6m,outage_hours_90d,num_services,churned
+C00590,Metro,One year,Wireless,Mailed check,Yes,No,No,No,20,39.66,105.1,0,2,0.5,3,0
+C00865,Metro,One year,Fiber,Electronic check,No,Yes,Yes,No,37,71.59,735.2,1,0,1.8,4,0
+C00971,Metro,One year,None,Electronic check,Yes,Yes,No,No,34,61.29,35.6,0,2,1.3,3,0
+C00886,Metro,Month-to-month,DSL,Credit card,No,Yes,No,Yes,29,72.16,247.2,2,1,2.2,3,1
+C00522,Rural,One year,DSL,Credit card,No,Yes,No,No,51,68.11,111.1,1,2,1.7,3,0
+C00759,Rural,Two year,None,Mailed check,No,No,No,No,47,42.79,11.7,0,0,3.1,2,0
+C01192,Metro,Two year,DSL,Mailed check,Yes,No,Yes,No,22,48.72,161.6,0,1,1.7,3,1
+C00842,Coastal,Two year,None,Bank transfer,Yes,Yes,Yes,Yes,47,32.67,20.2,0,0,2.1,4,0
+C00926,Metro,Month-to-month,Wireless,Credit card,Yes,No,Yes,No,15,45.0,158.9,0,0,2.7,3,1
+C00380,Regional,Two year,Wireless,Credit card,Yes,No,No,No,36,33.78,101.5,0,3,1.6,3,0
+C00062,Metro,Month-to-month,DSL,Mailed check,No,Yes,No,No,10,88.87,335.4,2,0,0.5,3,1
+C00511,Rural,Month-to-month,Fiber,Mailed check,No,Yes,Yes,Yes,15,87.78,523.8,0,2,4.2,3,0
+C00728,Rural,One year,Fiber,Electronic check,No,No,Yes,No,38,84.5,369.9,0,1,3.6,3,0
+C01176,Regional,Month-to-month,DSL,Bank transfer,No,Yes,Yes,No,18,75.71,193.8,0,1,3.4,4,0
+C00225,Coastal,Month-to-month,Wireless,Credit card,No,Yes,No,No,22,54.15,0,0,0,0.8,4,0
+C00684,Metro,One year,Fiber,Electronic check,No,Yes,No,No,19,81.24,621.8,0,1,2.9,4,0
+C00513,Coastal,Month-to-month,DSL,Bank transfer,Yes,No,Yes,Yes,20,95.03,243.9,0,1,0,4,0
+C01003,Regional,Month-to-month,Fiber,Electronic check,No,No,Yes,No,1,96.67,474.0,0,1,5.5,3,1
+C00858,Rural,Month-to-month,Wireless,Mailed check,No,Yes,Yes,Yes,13,62.22,92.9,2,3,3.9,4,0
+C00586,Coastal,One year,Wireless,Credit card,Yes,Yes,Yes,No,35,60.92,116.6,0,0,0.6,4,0
+C00885,Coastal,Month-to-month,DSL,Electronic check,No,No,Yes,No,9,72.06,187.1,0,2,0.2,2,1
+C01047,Metro,Two year,None,Electronic check,No,Yes,No,Yes,22,18,23.1,0,3,1.9,2,0
+C01090,Metro,Month-to-month,Fiber,Electronic check,No,No,No,No,3,85.43,406.4,1,2,2.0,3,1
+C00653,Coastal,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,No,16,103.85,407.9,0,1,2.5,4,0
+C00831,Regional,One year,DSL,Bank transfer,No,No,Yes,No,27,73.17,123.6,0,2,0,3,0
+C00642,Regional,One year,DSL,Mailed check,Yes,Yes,Yes,Yes,36,96.73,256.4,3,2,0.1,4,0
+C00945,Metro,Month-to-month,Fiber,Electronic check,Yes,No,Yes,No,13,93.95,403.3,0,0,3.6,3,1
+C00050,Regional,One year,Fiber,Electronic check,No,Yes,No,Yes,46,100.21,477.9,0,0,0.5,3,0
+C00912,Metro,Month-to-month,Wireless,Credit card,No,No,Yes,No,9,59.62,112.3,0,0,2.1,3,0
+C01120,Regional,One year,Fiber,Electronic check,Yes,Yes,Yes,No,18,114.78,495.6,1,1,3.4,5,0
+C00020,Coastal,Month-to-month,Fiber,Credit card,Yes,No,No,Yes,8,97.38,559.9,2,0,3.2,3,0
+C01174,Rural,One year,Fiber,Electronic check,Yes,Yes,No,No,22,113.29,370.9,0,2,4.2,4,0
+C00683,Coastal,Month-to-month,DSL,Bank transfer,Yes,Yes,No,No,31,84.02,126.0,4,0,2.3,4,0
+C00426,Coastal,Two year,Fiber,Bank transfer,No,Yes,Yes,Yes,53,87.5,371.0,1,0,3.7,4,0
+C00497,Coastal,Two year,DSL,Bank transfer,No,Yes,Yes,No,33,56.73,80.8,0,0,2.8,4,0
+C00972,Regional,One year,Fiber,Credit card,Yes,Yes,Yes,No,35,110.91,588.0,0,0,2.6,4,0
+C00314,Metro,One year,DSL,Electronic check,No,No,No,Yes,40,66.26,138.1,0,1,0,2,0
+C00178,Regional,Month-to-month,Fiber,Electronic check,Yes,No,Yes,No,3,108.53,483.9,0,0,4.1,3,1
+C00177,Metro,Two year,Fiber,Credit card,No,No,No,No,32,71.96,354.9,0,0,2.5,2,0
+C00623,Regional,Month-to-month,Fiber,Electronic check,No,No,Yes,No,22,73.78,447.6,3,0,1.2,2,0
+C00142,Rural,Month-to-month,Fiber,Credit card,No,No,Yes,No,11,91.2,235.0,0,4,4.4,2,1
+C00243,Metro,One year,Wireless,Bank transfer,Yes,No,Yes,Yes,29,58.65,54.5,0,0,2.4,3,0
+C00654,Metro,Month-to-month,Wireless,Bank transfer,Yes,No,Yes,No,20,65.18,165.9,1,0,1.6,3,0
+C00817,Regional,Month-to-month,DSL,Bank transfer,Yes,Yes,Yes,No,6,73.34,181.9,0,1,1.9,4,1
+C00596,Metro,Month-to-month,DSL,Mailed check,No,No,Yes,No,9,35.5,217.7,0,0,1.6,3,1
+C00014,Metro,Month-to-month,Wireless,Credit card,Yes,No,Yes,No,17,60.29,19.0,0,0,1.8,3,0
+C00325,Metro,One year,DSL,Electronic check,No,No,Yes,No,45,50.56,98.3,0,1,0.7,2,0
+C00262,Rural,Month-to-month,Fiber,Credit card,No,No,Yes,No,6,112.56,358.3,1,0,6.4,2,1
+C00545,Coastal,Month-to-month,Fiber,Mailed check,No,Yes,Yes,No,27,106.8,510.0,5,2,1.2,3,0
+C00712,Regional,Two year,Fiber,Electronic check,Yes,Yes,Yes,No,35,100.81,567.8,0,1,2.8,4,0
+C00041,Metro,One year,DSL,Bank transfer,Yes,No,Yes,No,17,74.93,145.0,1,1,1.1,4,0
+C00625,Coastal,Month-to-month,DSL,Electronic check,No,Yes,Yes,No,27,67.77,143.8,4,0,2.0,4,0
+C00929,Metro,One year,Wireless,Bank transfer,Yes,Yes,Yes,Yes,38,66.96,94.7,0,1,1.6,4,1
+C00477,Metro,Month-to-month,DSL,Bank transfer,No,No,Yes,No,13,72.37,219.1,0,0,0.7,3,0
+C01005,Metro,Month-to-month,Fiber,Bank transfer,Yes,No,Yes,No,21,94.29,293.2,1,1,1.0,3,0
+C00524,Metro,Month-to-month,Fiber,Credit card,No,No,Yes,No,9,91.23,430.2,0,4,1.8,2,0
+C01073,Metro,Month-to-month,Fiber,Bank transfer,No,No,No,No,18,76.32,418.5,1,0,2.4,3,1
+C01131,Regional,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,8,80.18,592.4,0,0,2.4,3,0
+C01125,Metro,Month-to-month,None,Credit card,Yes,No,Yes,No,9,30,8.8,2,3,0.6,2,0
+C01156,Regional,One year,DSL,Mailed check,No,Yes,No,No,28,65.72,195.9,0,0,0.3,3,0
+C00154,Regional,Month-to-month,None,Bank transfer,Yes,No,No,No,11,30.04,15.4,0,0,1.8,3,1
+C00471,Rural,One year,Fiber,Mailed check,Yes,No,Yes,No,25,99.35,358.7,1,0,4.6,3,0
+C01063,Metro,Two year,DSL,Electronic check,No,No,Yes,No,35,37.64,200.0,0,1,1.5,2,0
+C00421,Metro,Month-to-month,Wireless,Mailed check,Yes,Yes,No,No,6,63.81,59.6,0,0,0.6,4,0
+C01112,Metro,One year,Wireless,Bank transfer,Yes,Yes,Yes,No,50,65.27,18.0,0,1,0.8,4,0
+C01011,Metro,One year,DSL,Electronic check,No,No,Yes,No,30,41.16,200.9,0,5,0.2,2,1
+C00257,Rural,Month-to-month,Wireless,Bank transfer,No,No,No,No,11,28.56,17.4,1,0,2.7,2,0
+C00150,Metro,Month-to-month,Wireless,Electronic check,No,Yes,No,Yes,3,43.8,99.7,0,0,0.6,3,1
+C00517,Coastal,One year,Fiber,Mailed check,No,No,Yes,Yes,21,91.7,416.1,0,2,0.8,2,0
+C00694,Metro,Month-to-month,DSL,Mailed check,Yes,No,Yes,Yes,13,67.66,192.7,0,3,1.0,3,0
+C00167,Regional,One year,Fiber,Credit card,Yes,Yes,Yes,Yes,13,100.6,368.7,0,0,4.2,4,0
+C00738,Metro,Month-to-month,DSL,Electronic check,Yes,No,No,No,20,66.14,13.7,0,0,0.8,3,1
+C00290,Regional,Month-to-month,Wireless,Credit card,No,Yes,Yes,No,9,30.96,91.1,0,1,0.1,4,0
+C00528,Metro,Month-to-month,DSL,Electronic check,No,No,Yes,No,15,51.46,173.1,0,0,0.8,3,0
+C01154,Metro,Two year,DSL,Mailed check,Yes,Yes,No,No,48,50.73,193.3,0,1,0.9,4,0
+C00741,Metro,Two year,Wireless,Electronic check,No,No,No,No,16,38.25,85.3,0,0,1.2,2,0
+C00812,Metro,Two year,Fiber,Credit card,No,No,Yes,No,15,78.84,635.2,0,0,2.8,2,1
+C00739,Rural,Month-to-month,Wireless,Bank transfer,No,No,No,No,8,32.78,30.2,1,0,1.1,3,0
+C00192,Regional,One year,Fiber,Credit card,No,No,Yes,No,16,93.79,504.3,1,4,3.7,2,1
+C00254,Regional,Month-to-month,Wireless,Credit card,Yes,Yes,No,No,25,64.33,179.3,0,0,3.8,4,0
+C00205,Metro,One year,Fiber,Bank transfer,No,Yes,Yes,No,32,80.56,464.4,2,0,1.4,4,0
+C00447,Metro,One year,DSL,Credit card,Yes,No,No,No,13,82.24,204.6,0,0,1.9,3,0
+C00814,Regional,One year,DSL,Credit card,Yes,Yes,Yes,Yes,44,85.31,180.7,0,2,1.5,5,0
+C00841,Coastal,Month-to-month,Wireless,Bank transfer,Yes,Yes,No,No,16,76.42,81.0,0,0,3.1,4,1
+C01076,Coastal,Month-to-month,None,Bank transfer,Yes,No,Yes,No,27,30,19.1,0,0,2.1,2,1
+C00628,Metro,Month-to-month,Fiber,Mailed check,Yes,Yes,Yes,No,1,112.32,391.4,0,0,2.6,4,0
+C01152,Rural,One year,Wireless,Electronic check,No,No,Yes,No,23,38.52,63.4,4,1,3.3,2,0
+C00681,Coastal,Month-to-month,DSL,Electronic check,No,Yes,Yes,No,6,73.12,210.0,0,2,0.4,3,1
+C00983,Metro,One year,Fiber,Bank transfer,Yes,No,No,No,9,89.35,547.6,0,0,1.3,3,0
+C00698,Regional,One year,DSL,Mailed check,No,Yes,Yes,No,5,67.11,243.4,0,2,3.2,4,1
+C00389,Metro,Month-to-month,Fiber,Mailed check,No,No,No,No,1,88.07,458.1,0,0,0.5,2,0
+C00012,Coastal,Month-to-month,Fiber,Credit card,Yes,Yes,No,Yes,1,112.19,466.8,3,3,2.9,4,1
+C00210,Metro,One year,Fiber,Bank transfer,No,Yes,Yes,No,22,92.94,555.7,0,0,1.7,3,0
+C00650,Coastal,Two year,Wireless,Bank transfer,Yes,No,No,No,36,45.19,140.2,0,0,0.3,4,0
+C00600,Coastal,Month-to-month,None,Bank transfer,Yes,Yes,No,No,3,50.97,31.5,0,0,0.9,4,0
+C00334,Regional,Month-to-month,DSL,Credit card,Yes,Yes,Yes,No,15,97.65,298.7,1,0,5.2,5,1
+C00689,Coastal,Month-to-month,DSL,Electronic check,No,Yes,No,Yes,13,45.53,229.2,0,1,1.7,3,0
+C00568,Metro,Two year,Fiber,Electronic check,No,No,Yes,No,53,76.85,374.4,1,2,2.6,2,0
+C00137,Metro,Month-to-month,Fiber,Credit card,No,No,Yes,No,14,85.82,213.3,0,0,1.0,3,1
+C00554,Regional,One year,Wireless,Bank transfer,Yes,Yes,Yes,No,52,74.25,79.0,0,1,1.6,4,1
+C00592,Rural,Two year,Fiber,Bank transfer,No,No,No,No,70,70.97,474.5,5,1,4.8,2,0
+C00965,Rural,Month-to-month,DSL,Electronic check,No,Yes,No,No,23,71.55,135.8,0,1,2.1,3,1
+C00840,Regional,Two year,Fiber,Bank transfer,Yes,Yes,Yes,Yes,44,90.01,401.0,0,2,1.3,4,0
+C00174,Metro,Month-to-month,Wireless,Bank transfer,No,Yes,No,No,4,57.62,140.7,1,3,2.0,4,1
+C00344,Rural,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,17,84.27,455.1,1,4,3.2,4,1
+C00139,Rural,One year,DSL,Mailed check,No,Yes,Yes,No,1,72.91,189.2,0,3,2.2,3,1
+C00867,Regional,Month-to-month,Wireless,Bank transfer,No,No,No,Yes,22,50.02,96.2,0,2,0,3,0
+C00868,Coastal,Month-to-month,Fiber,Bank transfer,Yes,No,Yes,No,16,92.84,466.8,0,0,2.5,3,0
+C00354,Rural,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,No,25,76.73,424.2,2,0,4.5,4,1
+C00021,Coastal,One year,DSL,Credit card,No,No,No,No,27,71.03,94.2,0,0,1.1,3,0
+C00209,Metro,One year,DSL,Electronic check,Yes,No,Yes,No,3,86.09,148.4,0,2,1.2,3,1
+C00286,Metro,Month-to-month,Wireless,Credit card,Yes,No,No,No,33,62.97,182.1,0,0,1.1,4,1
+C00409,Regional,One year,None,Bank transfer,Yes,No,No,No,29,30,19.7,0,0,2.2,2,0
+C00127,Metro,One year,Wireless,Credit card,Yes,No,Yes,Yes,28,71.25,100.2,0,0,0,3,1
+C00087,Metro,Month-to-month,DSL,Electronic check,Yes,No,Yes,No,17,61.7,178.6,1,1,1.9,4,1
+C00503,Regional,Two year,Fiber,Mailed check,No,Yes,Yes,No,56,93.08,451.8,0,0,4.0,3,0
+C00584,Coastal,Month-to-month,Wireless,Bank transfer,No,No,Yes,Yes,8,43.61,90.3,0,3,0,2,1
+C00487,Coastal,Month-to-month,Wireless,Electronic check,Yes,Yes,Yes,No,21,84.61,103.1,0,2,1.9,4,1
+C00882,Coastal,Month-to-month,Fiber,Credit card,No,No,Yes,No,33,84.66,573.4,2,0,2.1,2,1
+C00745,Rural,Month-to-month,Fiber,Credit card,Yes,Yes,No,Yes,10,89.94,365.8,1,1,3.2,5,1
+C00731,Metro,Two year,Fiber,Bank transfer,Yes,Yes,Yes,Yes,22,80.41,402.1,0,1,0.6,5,0
+C01113,Coastal,Two year,Wireless,Bank transfer,Yes,No,Yes,No,72,67.0,145.1,1,0,0.9,4,0
+C00733,Metro,Month-to-month,Fiber,Bank transfer,No,No,No,No,3,87.6,621.4,2,0,0.8,2,1
+C01085,Metro,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,No,9,96.25,345.0,0,0,0.1,5,1
+C00617,Coastal,One year,Fiber,Electronic check,Yes,Yes,Yes,No,12,103.82,519.0,2,4,0.9,4,1
+C00854,Regional,One year,None,Bank transfer,Yes,No,No,Yes,19,30,20.3,0,0,1.3,2,0
+C00864,Metro,One year,None,Electronic check,Yes,No,Yes,No,32,51.58,0,0,1,2.0,2,0
+C00705,Regional,Month-to-month,DSL,Bank transfer,Yes,No,No,No,7,73.31,131.7,1,5,1.1,3,1
+C01094,Metro,Two year,Fiber,Electronic check,Yes,Yes,Yes,No,13,78.7,495.1,0,0,0.4,5,0
+C00506,Coastal,Month-to-month,Wireless,Mailed check,Yes,Yes,No,Yes,34,56.59,136.8,0,0,2.4,4,1
+C00984,Coastal,Month-to-month,Wireless,Electronic check,Yes,Yes,Yes,No,30,43.74,149.1,1,1,1.0,5,0
+C00048,Coastal,Month-to-month,Wireless,Bank transfer,Yes,Yes,No,Yes,18,43.42,127.3,0,0,1.9,5,0
+C00901,Metro,Month-to-month,Wireless,Electronic check,No,Yes,Yes,Yes,16,48.39,220.3,0,0,1.2,3,0
+C00963,Metro,Month-to-month,Fiber,Bank transfer,Yes,No,Yes,No,16,115.27,320.5,1,1,0,4,1
+C00664,Coastal,Month-to-month,Fiber,Bank transfer,Yes,Yes,No,No,9,71.4,563.7,0,0,0.8,4,0
+C00180,Coastal,Month-to-month,Wireless,Bank transfer,Yes,No,Yes,No,19,65.09,85.1,0,0,1.8,4,0
+C00359,Rural,One year,Fiber,Credit card,No,Yes,Yes,No,40,83.85,293.7,0,1,2.1,3,0
+C00216,Regional,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,8,81.04,747.2,3,0,1.2,2,0
+C00848,Coastal,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,25,81.12,439.5,2,2,0.7,3,1
+C00405,Metro,One year,Fiber,Credit card,No,Yes,Yes,No,32,85.49,370.9,1,0,2.7,3,0
+C00194,Regional,Two year,Fiber,Credit card,No,Yes,Yes,Yes,38,63.5,593.5,0,0,1.2,3,0
+C00052,Metro,Month-to-month,Fiber,Mailed check,No,Yes,Yes,No,30,92.8,447.2,1,2,1.3,3,0
+C00443,Regional,Month-to-month,Fiber,Bank transfer,No,Yes,Yes,No,24,78.62,672.2,1,0,2.1,4,0
+C00663,Rural,Month-to-month,None,Electronic check,No,Yes,No,No,7,48.3,23.6,0,1,2.2,3,0
+C00121,Regional,Month-to-month,Wireless,Credit card,Yes,No,No,Yes,25,55.75,123.0,1,0,0.6,4,1
+C00548,Metro,Month-to-month,None,Credit card,No,No,No,No,1,18,10.6,0,0,2.4,1,0
+C00870,Metro,One year,Fiber,Mailed check,No,Yes,No,No,31,83.07,140.5,0,2,1.4,3,0
+C00411,Coastal,Month-to-month,None,Bank transfer,No,Yes,Yes,No,1,33.81,32.2,0,0,2.9,2,1
+C00412,Rural,Two year,Wireless,Credit card,Yes,Yes,Yes,Yes,47,54.56,105.7,0,2,2.6,5,0
+C00436,Regional,Two year,Wireless,Electronic check,No,Yes,No,No,66,72.35,96.4,0,0,3.5,3,0
+C00544,Rural,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,Yes,1,86.16,289.5,3,1,2.7,4,0
+C00757,Rural,Month-to-month,Fiber,Electronic check,No,No,Yes,No,31,76.62,354.1,2,1,3.4,2,1
+C00888,Rural,Two year,Fiber,Credit card,Yes,Yes,No,No,43,77.86,473.2,1,1,2.0,4,0
+C00367,Coastal,Month-to-month,DSL,Electronic check,Yes,No,Yes,Yes,31,65.97,185.1,1,3,2.1,3,1
+C01175,Coastal,One year,DSL,Electronic check,No,No,Yes,No,35,52.22,134.3,0,0,1.3,2,0
+C00355,Coastal,Month-to-month,None,Bank transfer,Yes,Yes,Yes,No,15,37,33.3,1,3,1.5,3,0
+C00181,Metro,One year,Wireless,Mailed check,No,No,Yes,No,44,51.97,122.1,0,2,1.4,2,0
+C00687,Regional,Month-to-month,Fiber,Mailed check,Yes,Yes,Yes,No,12,98.7,348.1,0,1,2.0,5,0
+C00365,Rural,Two year,Wireless,Electronic check,Yes,Yes,No,Yes,55,70.18,73.7,2,2,0.5,4,0
+C00950,Regional,Month-to-month,Fiber,Credit card,Yes,Yes,No,No,1,104.38,391.5,1,0,0.3,4,1
+C00780,Metro,Month-to-month,Fiber,Mailed check,No,No,No,No,11,85.09,336.0,2,2,1.6,2,1
+C00093,Regional,Two year,Fiber,Mailed check,Yes,No,No,Yes,60,85.96,427.6,0,2,3.2,3,0
+C01153,Metro,One year,Wireless,Credit card,No,Yes,Yes,No,11,57.8,70.3,0,0,2.2,4,0
+C00746,Metro,Month-to-month,Wireless,Electronic check,No,Yes,Yes,No,5,41.11,164.9,0,3,0.9,3,1
+C00918,Rural,Month-to-month,DSL,Bank transfer,No,Yes,No,No,13,78.98,170.1,0,0,4.5,3,0
+C00324,Metro,One year,DSL,Electronic check,Yes,Yes,Yes,No,25,93.54,72.5,0,1,0.7,4,0
+C00714,Regional,Month-to-month,Fiber,Mailed check,No,No,Yes,No,14,76.81,496.0,2,1,2.4,2,0
+C00309,Metro,Month-to-month,Wireless,Electronic check,Yes,No,Yes,No,7,33.59,123.2,0,2,2.9,3,0
+C00979,Metro,Month-to-month,DSL,Bank transfer,Yes,No,Yes,Yes,26,74.34,53.0,1,1,1.5,3,1
+C01037,Coastal,Month-to-month,DSL,Bank transfer,Yes,No,Yes,Yes,18,76.49,196.9,0,0,2.0,3,0
+C00302,Regional,Month-to-month,Fiber,Electronic check,Yes,Yes,Yes,Yes,7,87.82,418.0,0,1,3.3,5,1
+C01092,Regional,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,23,83.8,434.4,0,0,2.2,2,0
+C00549,Metro,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,8,86.99,589.2,0,0,0,3,0
+C00482,Rural,One year,DSL,Electronic check,No,No,Yes,No,33,67.73,141.1,0,1,3.9,2,0
+C00261,Metro,One year,Fiber,Electronic check,Yes,Yes,Yes,Yes,22,83.5,322.3,2,3,3.3,4,1
+C00111,Metro,Month-to-month,Wireless,Credit card,Yes,No,Yes,No,1,49.57,110.4,6,0,0.3,3,1
+C00585,Regional,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,20,95.7,580.5,0,0,0.3,3,0
+C00460,Metro,Month-to-month,DSL,Bank transfer,No,No,Yes,Yes,33,50.79,200.3,1,0,0.6,3,0
+C00188,Rural,Month-to-month,Fiber,Mailed check,Yes,No,No,No,7,94.05,397.7,0,1,2.0,3,0
+C01198,Metro,Month-to-month,Wireless,Electronic check,No,Yes,Yes,No,21,37.48,61.9,1,1,3.5,4,0
+C00708,Coastal,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,No,1,107.34,276.0,0,1,0.9,5,1
+C00994,Rural,One year,Wireless,Electronic check,Yes,No,No,No,28,57.13,22.4,1,2,4.7,3,1
+C00672,Metro,One year,DSL,Credit card,No,Yes,Yes,No,32,44.17,132.5,1,0,2.2,3,0
+C01168,Metro,Two year,None,Bank transfer,Yes,Yes,Yes,No,42,29,21.4,1,3,1.5,3,0
+C00942,Regional,One year,Wireless,Credit card,Yes,No,Yes,No,1,46.29,123.0,2,0,1.4,4,0
+C00531,Rural,Month-to-month,Fiber,Electronic check,Yes,Yes,Yes,No,18,110.01,295.9,2,1,2.8,5,0
+C00214,Regional,Two year,Fiber,Bank transfer,No,No,Yes,No,6,81.15,509.6,0,0,3.1,2,0
+C00894,Coastal,Month-to-month,Wireless,Electronic check,No,Yes,Yes,Yes,18,66.92,65.7,0,0,1.7,3,0
+C01191,Coastal,Two year,None,Credit card,Yes,Yes,No,Yes,13,40.51,45.3,0,1,0.8,4,0
+C01097,Metro,Two year,Fiber,Electronic check,Yes,No,No,No,25,101.44,279.7,2,0,0.7,3,0
+C00337,Regional,One year,Fiber,Electronic check,No,No,No,No,35,76.59,538.0,0,3,2.1,2,0
+C00017,Rural,Month-to-month,Fiber,Bank transfer,No,Yes,Yes,No,4,99.39,414.4,1,1,3.4,3,1
+C00231,Metro,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,11,95.03,392.3,1,0,2.3,4,1
+C00657,Metro,Two year,Fiber,Credit card,Yes,Yes,Yes,No,63,95.66,513.4,0,0,0.5,5,0
+C00765,Metro,One year,Fiber,Bank transfer,No,Yes,Yes,Yes,61,100.26,277.2,0,3,1.7,3,1
+C00381,Regional,Month-to-month,Fiber,Credit card,No,No,Yes,No,10,86.2,498.0,0,0,3.0,3,1
+C00332,Metro,One year,Fiber,Bank transfer,No,Yes,Yes,No,18,92.05,432.3,2,2,0.9,4,0
+C00472,Metro,One year,Fiber,Bank transfer,Yes,Yes,Yes,No,25,120.24,301.4,0,0,1.9,5,0
+C00399,Regional,Month-to-month,DSL,Credit card,Yes,No,Yes,No,8,55.31,135.9,0,1,1.2,3,0
+C00641,Rural,Month-to-month,None,Electronic check,No,Yes,No,No,18,44.96,14.3,0,0,3.7,2,1
+C00273,Rural,Month-to-month,Fiber,Electronic check,Yes,Yes,No,No,29,110.72,421.6,1,0,1.0,4,0
+C00145,Metro,Month-to-month,Fiber,Credit card,No,Yes,No,No,12,88.07,416.7,1,0,1.0,3,0
+C01044,Metro,One year,DSL,Electronic check,Yes,No,No,No,34,81.04,223.6,0,1,1.1,4,1
+C00478,Metro,One year,DSL,Mailed check,No,Yes,Yes,No,11,83.21,284.0,1,0,0.8,3,0
+C01144,Regional,Month-to-month,Fiber,Credit card,Yes,No,Yes,No,16,110.32,355.3,0,3,1.4,3,0
+C00944,Metro,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,9,88.96,554.6,0,0,0.4,3,1
+C00873,Regional,Month-to-month,DSL,Credit card,No,Yes,Yes,Yes,19,71.35,109.1,0,0,1.8,3,0
+C00756,Metro,Month-to-month,Fiber,Bank transfer,Yes,Yes,No,No,4,67.02,541.6,0,0,1.8,4,1
+C00316,Regional,Month-to-month,DSL,Credit card,No,Yes,Yes,No,4,74.98,150.9,0,0,1.3,4,1
+C00620,Metro,Month-to-month,Fiber,Electronic check,Yes,No,Yes,No,1,105.11,507.5,0,1,1.5,3,0
+C00866,Regional,Two year,Fiber,Credit card,No,Yes,No,No,26,71.77,302.7,3,1,3.2,3,0
+C00804,Rural,One year,Fiber,Credit card,Yes,Yes,Yes,No,41,92.42,479.6,0,1,3.4,5,0
+C01157,Regional,One year,Fiber,Electronic check,No,No,Yes,No,25,87.01,477.5,1,0,0.7,2,1
+C01140,Regional,Month-to-month,DSL,Credit card,Yes,No,No,No,15,86.86,150.2,0,0,2.4,3,0
+C00488,Regional,Two year,Wireless,Credit card,Yes,Yes,Yes,No,42,81.86,140.4,0,0,1.2,5,0
+C01129,Coastal,Month-to-month,Fiber,Mailed check,No,Yes,No,No,18,88.02,224.0,3,0,2.3,3,0
+C00198,Coastal,Month-to-month,Wireless,Electronic check,Yes,No,Yes,No,9,54.6,78.7,0,1,2.3,4,1
+C00537,Metro,Month-to-month,None,Bank transfer,No,Yes,Yes,No,24,25,24.6,5,1,0.6,2,0
+C00377,Metro,Two year,Fiber,Credit card,Yes,No,Yes,No,32,63.12,264.4,2,0,0.8,3,0
+C00146,Regional,Month-to-month,DSL,Credit card,No,Yes,Yes,No,12,74.48,266.6,0,1,1.3,3,0
+C00151,Coastal,Month-to-month,Fiber,Bank transfer,No,Yes,No,No,9,107.73,330.4,0,3,4.0,3,1
+C00753,Metro,Two year,Fiber,Mailed check,Yes,No,No,Yes,41,81.68,199.5,2,0,1.7,4,0
+C00457,Regional,Month-to-month,Fiber,Credit card,Yes,No,No,No,9,90.12,324.0,0,0,2.9,4,1
+C00454,Metro,Month-to-month,None,Electronic check,No,Yes,Yes,No,31,56.79,21.4,0,0,0.0,2,0
+C01009,Metro,Two year,Fiber,Bank transfer,No,Yes,Yes,Yes,45,69.29,322.4,0,2,1.7,3,0
+C00875,Rural,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,23,80.24,596.5,0,0,3.1,3,0
+C00418,Regional,Month-to-month,DSL,Mailed check,Yes,Yes,No,Yes,1,85.86,225.3,0,0,0,5,0
+C00573,Coastal,One year,DSL,Credit card,No,Yes,No,Yes,39,73.24,88.2,0,1,2.7,3,0
+C00499,Coastal,One year,DSL,Bank transfer,Yes,Yes,Yes,No,9,62.1,317.5,0,0,1.5,4,0
+C00138,Metro,Two year,Fiber,Bank transfer,No,No,Yes,No,55,96.92,331.1,0,0,3.0,3,0
+C00999,Metro,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,No,13,75.99,131.3,0,1,0.3,5,0
+C00847,Metro,Month-to-month,Fiber,Credit card,Yes,No,No,No,18,73.31,458.3,0,1,2.9,3,0
+C00907,Regional,Two year,DSL,Credit card,No,Yes,Yes,No,47,74.02,247.9,0,1,0.6,4,0
+C00083,Coastal,Two year,None,Electronic check,No,Yes,No,No,27,31.46,10.8,0,1,2.8,2,0
+C00810,Metro,Month-to-month,Fiber,Credit card,No,Yes,Yes,No,33,90.59,505.9,0,3,2.3,3,1
+C00697,Coastal,One year,Wireless,Electronic check,Yes,Yes,Yes,No,16,55.66,77.9,0,0,0,4,1
+C01166,Coastal,One year,Fiber,Bank transfer,Yes,No,Yes,Yes,23,76.14,442.0,1,1,1.9,4,1
+C00006,Regional,Month-to-month,None,Mailed check,Yes,No,Yes,Yes,14,30,20.0,0,3,0.3,2,0
+C00561,Coastal,Month-to-month,None,Bank transfer,No,Yes,Yes,No,22,44.46,19.9,0,0,0.1,2,0
+C01104,Metro,Two year,None,Bank transfer,No,Yes,Yes,No,5,28.17,28.6,0,0,3.3,2,0
+C01126,Metro,Month-to-month,Fiber,Mailed check,No,Yes,Yes,No,18,82.86,376.1,0,0,1.4,3,1
+C00374,Regional,Two year,Fiber,Electronic check,No,Yes,No,No,22,86.34,370.7,0,0,1.4,3,0
+C00227,Coastal,One year,Fiber,Electronic check,Yes,Yes,Yes,No,33,84.47,252.6,0,2,1.4,5,0
+C00046,Rural,Two year,Fiber,Credit card,No,No,Yes,No,45,79.69,496.4,1,0,4.3,3,0
+C00613,Rural,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,No,19,71.92,489.7,3,0,2.5,5,0
+C00030,Rural,Month-to-month,Wireless,Bank transfer,Yes,Yes,Yes,Yes,24,62.05,173.0,0,0,2.7,4,0
+C00475,Metro,Two year,DSL,Electronic check,No,No,Yes,No,36,63.81,183.8,0,1,1.2,2,0
+C00120,Coastal,Month-to-month,DSL,Credit card,Yes,Yes,Yes,No,18,67.1,247.9,0,1,2.0,4,0
+C01013,Rural,Month-to-month,Fiber,Credit card,Yes,No,Yes,No,14,91.19,264.5,1,2,4.1,3,0
+C00252,Metro,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,18,83.39,514.9,0,0,1.8,2,0
+C01083,Rural,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,No,3,105.83,385.8,0,0,2.7,4,1
+C00826,Rural,Two year,DSL,Mailed check,No,No,Yes,No,19,64.92,181.5,2,2,3.0,2,0
+C00069,Regional,One year,DSL,Mailed check,Yes,No,Yes,No,11,84.39,219.4,0,1,2.8,4,0
+C00187,Coastal,Two year,DSL,Bank transfer,No,Yes,Yes,Yes,7,32.33,139.6,0,0,2.8,3,1
+C00640,Metro,Two year,DSL,Electronic check,No,Yes,Yes,No,40,76.98,138.3,0,2,1.2,4,0
+C00009,Regional,One year,DSL,Mailed check,Yes,Yes,Yes,No,28,88.79,208.3,1,0,0.7,4,0
+C00559,Metro,One year,Fiber,Electronic check,Yes,Yes,Yes,No,19,90.2,451.4,0,1,2.9,4,1
+C00863,Regional,Month-to-month,Fiber,Credit card,Yes,No,No,No,23,51.55,475.6,0,0,3.1,3,0
+C00183,Coastal,Month-to-month,Wireless,Bank transfer,Yes,No,Yes,No,5,75.56,65.2,0,1,0.9,3,0
+C00785,Rural,Month-to-month,Fiber,Bank transfer,No,Yes,No,No,19,98.48,515.4,3,2,1.3,4,1
+C00608,Regional,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,No,6,96.94,202.4,0,0,0.1,4,1
+C00990,Rural,Two year,Wireless,Bank transfer,No,No,No,Yes,43,46.32,36.4,1,0,1.9,2,0
+C00353,Metro,One year,Wireless,Bank transfer,No,No,Yes,Yes,35,39.17,171.6,0,1,1.1,2,1
+C00086,Metro,Month-to-month,Wireless,Credit card,Yes,No,Yes,No,10,52.77,124.4,0,1,2.3,3,0
+C00892,Metro,Month-to-month,Wireless,Mailed check,Yes,No,Yes,No,1,61.0,115.6,0,0,2.3,3,1
+C01025,Rural,Month-to-month,DSL,Mailed check,Yes,Yes,No,No,6,82.98,247.7,0,1,3.7,4,0
+C00179,Coastal,Month-to-month,DSL,Electronic check,Yes,Yes,No,No,12,80.09,83.8,0,5,0.2,4,1
+C00593,Coastal,One year,DSL,Bank transfer,No,Yes,No,No,32,61.35,242.7,0,0,1.6,3,0
+C00171,Metro,Month-to-month,Wireless,Bank transfer,Yes,No,Yes,No,20,69.03,137.0,1,3,1.7,3,1
+C00044,Metro,One year,Fiber,Bank transfer,Yes,No,Yes,No,42,68.41,488.1,0,3,1.7,4,0
+C00246,Rural,Month-to-month,Fiber,Mailed check,No,Yes,Yes,Yes,15,77.38,399.0,0,0,4.5,4,0
+C00957,Rural,Two year,Wireless,Bank transfer,Yes,No,Yes,No,53,63.29,103.5,2,0,4.1,3,0
+C00928,Metro,Month-to-month,Fiber,Electronic check,Yes,No,Yes,No,1,66.33,596.0,5,1,1.3,4,1
+C00725,Rural,One year,DSL,Bank transfer,Yes,Yes,No,No,40,67.37,150.6,2,1,3.4,5,0
+C00292,Metro,Month-to-month,Fiber,Mailed check,No,No,Yes,No,26,73.95,237.0,1,0,0.8,2,0
+C00626,Metro,One year,DSL,Electronic check,No,No,Yes,No,17,46.08,123.7,0,1,1.5,3,1
+C01050,Coastal,Month-to-month,DSL,Credit card,No,Yes,No,No,23,77.98,311.3,0,1,0.6,3,0
+C00219,Regional,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,13,72.91,178.0,0,2,2.2,3,1
+C00024,Metro,One year,Fiber,Credit card,No,Yes,Yes,Yes,1,76.32,317.8,1,4,1.7,3,1
+C00364,Regional,One year,Wireless,Bank transfer,Yes,No,Yes,No,1,52.62,165.1,0,0,0.1,3,1
+C00612,Rural,Month-to-month,Fiber,Mailed check,No,No,No,No,23,80.51,423.5,1,0,3.3,2,1
+C00555,Metro,Month-to-month,DSL,Electronic check,No,Yes,No,No,21,69.26,63.4,1,1,1.8,3,1
+C00669,Rural,Month-to-month,Wireless,Bank transfer,Yes,No,Yes,No,2,67.04,203.9,0,4,1.9,3,1
+C00552,Regional,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,33,75.47,518.3,0,2,3.5,3,1
+C00961,Metro,One year,DSL,Bank transfer,No,No,Yes,Yes,16,49.95,266.6,0,2,0.9,3,0
+C00889,Metro,One year,Wireless,Electronic check,Yes,No,No,No,34,49.35,119.6,1,5,1.5,3,0
+C00326,Metro,One year,DSL,Electronic check,Yes,No,Yes,No,39,75.21,153.8,0,1,0.4,3,0
+C01061,Metro,One year,Wireless,Bank transfer,No,No,Yes,No,45,67.26,96.9,0,0,1.5,2,0
+C00798,Coastal,Two year,DSL,Electronic check,Yes,Yes,No,No,56,100.56,76.6,0,0,1.8,4,0
+C01046,Metro,One year,Fiber,Bank transfer,No,Yes,No,Yes,45,86.87,260.5,0,3,1.2,3,0
+C00143,Metro,Two year,Wireless,Credit card,No,No,Yes,Yes,34,53.23,118.8,0,2,1.7,2,0
+C00267,Rural,Month-to-month,Fiber,Electronic check,Yes,No,No,Yes,12,81.12,636.3,5,1,3.5,3,0
+C00505,Metro,Two year,Fiber,Credit card,No,Yes,Yes,No,56,93.76,582.3,0,0,0.7,3,0
+C01036,Coastal,Month-to-month,Fiber,Credit card,Yes,No,No,No,1,65.58,307.3,0,0,3.1,4,1
+C00132,Metro,Two year,Wireless,Bank transfer,Yes,Yes,Yes,No,45,73.39,117.9,0,3,1.7,4,0
+C00485,Coastal,Month-to-month,DSL,Mailed check,No,No,No,No,6,51.71,208.7,0,0,1.4,3,1
+C00913,Rural,One year,Fiber,Credit card,Yes,Yes,Yes,No,28,86.19,291.4,1,5,5.2,4,0
+C00770,Regional,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,Yes,11,66.21,252.5,1,1,4.0,4,0
+C00601,Metro,Two year,Wireless,Credit card,Yes,Yes,Yes,Yes,24,70.01,125.8,0,3,2.3,5,0
+C00890,Coastal,Two year,DSL,Electronic check,No,Yes,Yes,Yes,64,50.77,109.6,0,0,0.4,3,0
+C00966,Coastal,Month-to-month,Wireless,Credit card,No,Yes,Yes,No,12,72.86,113.2,0,0,2.2,4,0
+C00291,Coastal,One year,Fiber,Bank transfer,No,Yes,Yes,Yes,1,85.74,518.8,1,0,1.8,3,0
+C00134,Metro,One year,Fiber,Credit card,No,No,Yes,No,31,81.33,203.7,0,4,2.5,3,0
+C01040,Regional,Month-to-month,Fiber,Electronic check,No,No,No,Yes,6,86.37,201.7,0,2,2.2,2,1
+C00350,Regional,Month-to-month,Fiber,Bank transfer,No,Yes,Yes,No,18,99.8,371.8,2,1,2.5,3,0
+C00124,Metro,Month-to-month,DSL,Electronic check,No,Yes,Yes,No,14,61.17,115.7,0,0,2.3,3,0
+C00195,Metro,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,No,26,97.83,203.4,0,4,0.6,4,1
+C01033,Regional,One year,DSL,Mailed check,Yes,Yes,Yes,No,37,82.72,106.2,0,2,1.9,5,0
+C00495,Coastal,Two year,DSL,Electronic check,Yes,Yes,Yes,No,32,62.59,252.6,1,0,1.2,4,0
+C00591,Coastal,Month-to-month,DSL,Bank transfer,No,No,Yes,No,25,50.47,282.7,0,3,0.1,2,1
+C00998,Coastal,Month-to-month,Fiber,Electronic check,No,No,No,No,30,78.64,398.0,3,5,0.8,3,0
+C00077,Coastal,Month-to-month,None,Credit card,Yes,Yes,Yes,Yes,19,51.19,12.5,0,1,1.5,4,0
+C00906,Metro,One year,Fiber,Electronic check,No,Yes,Yes,No,45,89.68,306.4,0,3,1.6,3,0
+C00362,Coastal,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,No,10,76.2,524.7,1,2,1.3,4,1
+C00176,Coastal,One year,DSL,Electronic check,No,Yes,Yes,No,8,42.51,104.8,0,0,2.4,3,0
+C00699,Metro,Month-to-month,Wireless,Electronic check,Yes,Yes,Yes,Yes,20,71.81,98.7,0,0,0.9,4,1
+C00117,Metro,One year,Wireless,Electronic check,No,Yes,Yes,Yes,19,44.54,139.9,0,3,2.5,3,1
+C00293,Metro,One year,DSL,Mailed check,Yes,No,Yes,No,38,96.23,128.5,0,1,2.0,3,1
+C00639,Coastal,Month-to-month,Fiber,Mailed check,No,No,No,No,1,77.23,383.2,2,2,0.6,3,1
+C01043,Rural,One year,None,Electronic check,No,Yes,Yes,No,48,25,20.9,3,1,1.8,2,0
+C00116,Metro,One year,Fiber,Credit card,No,Yes,Yes,Yes,31,106.91,604.8,0,0,2.4,4,0
+C00611,Metro,Month-to-month,Fiber,Electronic check,Yes,No,Yes,Yes,20,90.45,377.4,0,0,1.3,4,1
+C00518,Metro,One year,Fiber,Credit card,Yes,Yes,Yes,No,19,114.67,446.1,0,0,1.1,4,1
+C01067,Metro,One year,Fiber,Bank transfer,No,Yes,Yes,No,18,72.03,424.3,1,1,2.2,4,0
+C01101,Regional,Month-to-month,Wireless,Credit card,Yes,No,No,No,28,73.47,107.2,2,0,0,3,0
+C01124,Rural,Month-to-month,Fiber,Credit card,No,Yes,Yes,No,6,77.5,372.5,0,1,1.6,4,1
+C00237,Coastal,Month-to-month,Wireless,Mailed check,Yes,No,Yes,No,6,67.9,78.1,0,3,3.1,4,1
+C00845,Metro,One year,DSL,Bank transfer,No,No,Yes,No,22,89.88,127.0,0,1,0.5,2,0
+C01106,Coastal,One year,Fiber,Electronic check,No,No,Yes,No,15,86.16,461.3,0,4,1.5,2,1
+C00667,Rural,One year,DSL,Electronic check,Yes,Yes,Yes,Yes,47,73.52,139.4,1,3,2.8,4,0
+C00313,Metro,Month-to-month,Wireless,Credit card,No,No,No,No,16,57.61,97.2,0,5,1.2,2,1
+C00422,Metro,One year,None,Bank transfer,No,Yes,No,No,14,25,30.1,0,0,2.4,2,0
+C00526,Rural,One year,Fiber,Electronic check,Yes,Yes,Yes,No,5,114.89,242.9,2,1,4.0,4,1
+C00665,Metro,Month-to-month,Wireless,Mailed check,Yes,Yes,No,Yes,23,78.65,69.5,1,0,0.8,4,1
+C00260,Rural,One year,Wireless,Electronic check,Yes,No,Yes,Yes,23,58.39,146.7,0,1,4.9,4,1
+C00577,Coastal,One year,Fiber,Electronic check,Yes,Yes,No,No,36,92.31,462.6,0,0,4.2,4,0
+C00123,Regional,Two year,Wireless,Bank transfer,Yes,Yes,No,No,55,64.45,148.8,1,4,2.5,5,0
+C01187,Metro,Month-to-month,Fiber,Credit card,Yes,No,Yes,No,39,93.02,507.0,1,0,2.4,3,1
+C01199,Rural,Month-to-month,DSL,Electronic check,No,Yes,Yes,No,10,64.31,236.8,1,1,0.2,3,1
+C00758,Coastal,Month-to-month,Fiber,Bank transfer,Yes,No,No,No,2,99.57,485.6,0,0,2.9,4,1
+C00060,Metro,Month-to-month,None,Bank transfer,Yes,Yes,Yes,No,27,55.23,22.1,1,0,0.9,3,1
+C00783,Regional,Month-to-month,None,Bank transfer,Yes,No,Yes,No,14,49.16,31.7,4,0,3.7,2,0
+C00527,Coastal,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,14,84.75,497.8,0,0,1.8,4,0
+C00098,Coastal,One year,Wireless,Electronic check,No,Yes,Yes,No,40,46.15,205.6,0,1,0.2,3,0
+C00080,Rural,Month-to-month,Fiber,Credit card,No,No,No,No,16,90.44,340.0,0,0,5.7,2,1
+C00015,Metro,Month-to-month,Fiber,Credit card,No,Yes,Yes,Yes,32,78.77,636.5,1,0,3.1,4,0
+C00564,Coastal,One year,Fiber,Bank transfer,No,Yes,Yes,No,33,84.32,515.0,1,3,2.0,3,1
+C01058,Metro,Two year,Fiber,Credit card,Yes,Yes,No,No,38,94.46,539.0,0,2,2.6,5,0
+C00734,Coastal,Month-to-month,Fiber,Electronic check,No,No,Yes,Yes,19,72.98,494.2,0,1,1.2,3,1
+C00327,Metro,Two year,Fiber,Mailed check,No,Yes,Yes,No,19,73.71,379.5,0,1,1.8,3,0
+C00933,Rural,Month-to-month,DSL,Bank transfer,Yes,Yes,Yes,Yes,6,71.64,89.8,1,3,1.4,4,1
+C01194,Coastal,One year,Fiber,Credit card,Yes,No,Yes,No,14,102.18,536.3,2,2,1.3,4,0
+C00247,Metro,One year,None,Credit card,Yes,Yes,Yes,No,1,51.52,14.0,0,1,2.3,3,0
+C00656,Coastal,Month-to-month,Fiber,Credit card,No,No,No,No,8,98.54,459.4,0,1,1.1,2,0
+C00148,Coastal,Two year,Fiber,Electronic check,Yes,Yes,No,No,51,109.53,393.4,0,2,2.6,4,0
+C00730,Metro,Month-to-month,Fiber,Bank transfer,No,No,No,No,26,73.8,562.6,2,0,2.5,2,1
+C00836,Regional,Two year,Fiber,Electronic check,No,Yes,No,Yes,38,78.99,243.4,2,2,2.5,4,0
+C00445,Metro,Two year,Fiber,Credit card,Yes,Yes,No,Yes,48,96.24,545.0,1,2,1.8,4,0
+C00609,Coastal,Two year,Fiber,Bank transfer,Yes,No,Yes,No,46,92.39,430.6,0,1,2.2,3,0
+C00211,Metro,One year,Wireless,Electronic check,Yes,No,Yes,No,45,69.56,81.1,0,1,0,4,0
+C00011,Coastal,Month-to-month,DSL,Bank transfer,No,Yes,No,Yes,19,83.84,139.3,0,1,0.5,3,1
+C01082,Coastal,Month-to-month,Fiber,Credit card,No,No,Yes,No,19,68.96,137.2,3,1,0.6,2,1
+C00070,Regional,Month-to-month,Wireless,Bank transfer,No,Yes,Yes,No,18,46.31,8.3,1,1,1.1,4,1
+C00536,Rural,Month-to-month,Wireless,Mailed check,Yes,Yes,Yes,No,18,67.41,71.0,1,0,2.9,4,0
+C00661,Rural,Two year,Fiber,Mailed check,Yes,Yes,No,No,45,90.37,348.9,1,0,3.1,4,0
+C00433,Regional,Two year,DSL,Bank transfer,Yes,Yes,No,No,72,71.63,178.3,0,2,2.5,4,0
+C01115,Coastal,Month-to-month,DSL,Credit card,Yes,Yes,Yes,No,13,71.6,265.8,0,0,1.5,5,1
+C00860,Coastal,Month-to-month,Wireless,Mailed check,No,No,Yes,Yes,24,54.62,100.3,2,1,3.1,3,1
+C00557,Rural,Month-to-month,Fiber,Bank transfer,No,Yes,No,No,4,97.88,386.3,2,3,3.0,3,1
+C00036,Rural,Two year,DSL,Electronic check,No,Yes,No,No,37,83.52,178.5,2,1,1.3,3,0
+C00215,Coastal,One year,Wireless,Mailed check,No,Yes,Yes,No,45,75.87,16.1,0,1,3.1,3,0
+C00372,Metro,One year,DSL,Electronic check,No,No,Yes,No,18,51.91,171.1,0,1,2.4,2,0
+C01114,Metro,One year,Fiber,Electronic check,Yes,Yes,Yes,No,26,93.53,402.6,0,0,4.0,4,0
+C01155,Metro,Month-to-month,Fiber,Electronic check,No,No,Yes,No,10,94.75,417.8,1,1,1.1,3,1
+C01051,Metro,Month-to-month,Wireless,Credit card,No,Yes,No,No,17,65.47,62.5,0,0,0.9,3,0
+C00938,Regional,Month-to-month,DSL,Mailed check,No,Yes,No,No,35,66.57,152.1,0,4,1.7,3,1
+C00126,Metro,Month-to-month,Fiber,Credit card,No,No,Yes,No,20,85.65,449.7,0,0,0,3,1
+C00543,Rural,Month-to-month,Fiber,Credit card,No,Yes,No,Yes,31,83.0,496.1,8,0,2.0,3,0
+C00589,Metro,One year,Fiber,Credit card,Yes,Yes,Yes,Yes,13,106.53,428.9,2,3,1.2,4,0
+C00347,Metro,Month-to-month,DSL,Electronic check,No,No,Yes,No,20,52.5,187.3,1,0,0.7,2,0
+C01031,Rural,Month-to-month,Wireless,Bank transfer,Yes,Yes,Yes,No,15,87.31,130.9,0,0,0.3,5,0
+C00064,Metro,Month-to-month,Fiber,Bank transfer,No,Yes,Yes,No,12,87.75,331.1,1,0,0.4,4,0
+C01034,Coastal,Month-to-month,DSL,Bank transfer,No,No,Yes,No,19,76.49,211.9,0,1,0.6,2,1
+C00507,Regional,Month-to-month,None,Electronic check,Yes,No,Yes,Yes,5,30,24.4,0,1,0.2,2,0
+C00978,Coastal,One year,Fiber,Electronic check,Yes,No,Yes,No,22,102.47,432.3,0,1,0.8,3,0
+C00136,Coastal,Month-to-month,Fiber,Mailed check,Yes,Yes,No,Yes,18,111.21,402.9,1,1,2.5,4,1
+C00032,Metro,One year,DSL,Bank transfer,No,No,No,No,10,38.29,224.8,0,0,1.7,3,1
+C00435,Metro,Two year,DSL,Mailed check,No,No,No,No,60,50.2,290.0,0,5,1.2,2,0
+C00991,Coastal,Month-to-month,DSL,Mailed check,No,Yes,Yes,No,24,77.13,136.3,0,0,1.6,4,0
+C00346,Metro,One year,Fiber,Mailed check,Yes,No,Yes,No,19,119.81,358.4,4,1,2.0,4,0
+C00101,Metro,Month-to-month,Fiber,Bank transfer,No,Yes,Yes,No,25,97.94,366.6,0,3,3.7,3,1
+C00066,Coastal,One year,Wireless,Electronic check,No,Yes,Yes,Yes,29,58.34,172.4,0,2,2.2,4,1
+C00245,Metro,Month-to-month,Fiber,Mailed check,No,No,No,No,12,76.14,459.3,1,4,2.7,2,1
+C01023,Metro,Month-to-month,DSL,Electronic check,No,Yes,Yes,No,17,76.35,170.7,0,1,0.5,4,1
+C00429,Coastal,Month-to-month,DSL,Electronic check,No,No,Yes,No,33,58.23,174.7,0,1,2.8,3,0
+C00737,Regional,Two year,Fiber,Electronic check,Yes,No,Yes,No,46,84.07,334.9,0,0,3.5,3,0
+C00352,Coastal,Month-to-month,DSL,Mailed check,Yes,No,No,No,12,53.87,168.2,0,0,0,3,1
+C00349,Metro,Month-to-month,Wireless,Credit card,No,Yes,Yes,Yes,1,72.08,92.8,2,2,1.6,4,1
+C00446,Metro,One year,Fiber,Mailed check,Yes,No,Yes,No,38,89.12,383.0,0,0,0.9,3,0
+C00027,Regional,One year,Fiber,Mailed check,No,Yes,No,No,9,92.62,399.0,0,2,4.3,4,0
+C00953,Coastal,One year,None,Electronic check,Yes,Yes,No,No,39,37.69,30.9,0,0,1.8,3,0
+C00599,Metro,One year,Fiber,Bank transfer,No,No,Yes,No,24,97.07,381.1,0,0,3.3,3,0
+C00512,Coastal,Two year,Wireless,Bank transfer,Yes,Yes,Yes,No,53,65.24,29.7,1,4,1.6,4,0
+C00668,Metro,One year,Fiber,Electronic check,No,Yes,Yes,No,44,88.11,454.6,1,0,0.8,4,0
+C00551,Metro,Month-to-month,DSL,Mailed check,No,No,Yes,No,10,68.15,167.6,5,3,3.2,2,1
+C00717,Coastal,Month-to-month,Fiber,Mailed check,Yes,Yes,Yes,No,1,90.29,430.8,0,0,0.8,4,1
+C01167,Coastal,Two year,DSL,Credit card,No,Yes,Yes,No,35,59.02,237.9,0,0,1.6,3,0
+C00949,Coastal,Month-to-month,DSL,Bank transfer,Yes,Yes,Yes,No,23,78.85,82.2,0,1,2.7,5,0
+C00729,Metro,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,1,91.61,416.8,1,3,0,3,1
+C00914,Metro,Two year,Wireless,Electronic check,Yes,Yes,Yes,No,47,43.1,136.5,0,0,1.7,4,0
+C00263,Metro,One year,Fiber,Credit card,No,No,Yes,No,44,97.62,464.0,1,0,1.0,2,0
+C00604,Coastal,Two year,DSL,Credit card,No,Yes,Yes,No,31,73.1,145.8,0,1,2.7,4,0
+C00379,Rural,One year,Fiber,Mailed check,No,Yes,Yes,Yes,47,98.3,487.8,0,0,3.8,3,0
+C01103,Regional,Month-to-month,DSL,Bank transfer,No,Yes,Yes,No,6,92.29,147.6,0,5,0.4,3,0
+C00450,Metro,Two year,None,Credit card,No,Yes,No,No,24,18,17.4,0,0,0,2,0
+C00001,Coastal,Month-to-month,Fiber,Electronic check,No,No,No,Yes,11,83.39,447.9,1,1,3.7,2,1
+C00483,Regional,Month-to-month,DSL,Bank transfer,No,No,No,No,21,45.63,109.2,1,1,2.3,2,0
+C00916,Regional,Month-to-month,Fiber,Bank transfer,No,No,No,Yes,33,78.3,354.8,0,1,2.9,2,0
+C00638,Metro,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,41,93.82,331.2,1,3,2.2,4,1
+C00915,Metro,Two year,DSL,Electronic check,Yes,Yes,No,Yes,44,84.34,277.7,0,0,1.2,4,0
+C00264,Rural,Two year,DSL,Credit card,Yes,Yes,Yes,No,50,79.65,267.5,0,0,5.7,4,0
+C01087,Metro,Month-to-month,Fiber,Credit card,No,Yes,Yes,No,15,79.59,268.7,1,1,1.5,3,0
+C01056,Coastal,One year,DSL,Bank transfer,No,Yes,No,No,16,71.79,115.0,0,2,1.2,3,0
+C00562,Regional,Two year,Fiber,Mailed check,Yes,Yes,No,No,30,100.36,364.4,0,0,4.5,4,0
+C01158,Regional,Two year,Fiber,Credit card,Yes,No,Yes,No,33,87.81,327.5,1,2,0.5,3,0
+C00130,Coastal,One year,None,Credit card,Yes,No,Yes,No,14,35.82,40.9,0,0,2.0,2,1
+C00404,Metro,Two year,DSL,Bank transfer,No,Yes,Yes,No,57,61.6,254.1,0,4,1.2,4,0
+C01132,Regional,One year,Fiber,Credit card,Yes,Yes,No,No,27,90.75,521.8,0,1,4.4,5,1
+C00655,Coastal,Month-to-month,Wireless,Bank transfer,No,No,Yes,Yes,16,48.2,114.5,0,2,2.2,2,1
+C00099,Metro,Month-to-month,Fiber,Credit card,Yes,No,Yes,No,33,121.62,397.1,0,2,0.8,3,1
+C00707,Metro,One year,Fiber,Electronic check,Yes,Yes,Yes,No,58,118.31,443.1,0,1,1.3,5,0
+C00300,Rural,Month-to-month,Wireless,Electronic check,No,Yes,No,No,22,64.58,82.0,0,2,1.6,3,1
+C01133,Metro,Month-to-month,DSL,Credit card,Yes,Yes,Yes,No,3,92.56,156.2,1,1,0.8,4,1
+C00213,Metro,One year,Fiber,Credit card,No,Yes,Yes,No,32,72.86,585.4,0,3,0.6,3,1
+C00605,Coastal,Month-to-month,Fiber,Electronic check,Yes,No,No,No,24,109.79,368.9,0,2,2.9,4,0
+C00743,Regional,One year,DSL,Electronic check,No,No,Yes,No,20,76.5,244.3,0,0,2.9,2,1
+C00489,Rural,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,No,7,90.8,266.0,0,1,5.1,4,1
+C00828,Rural,Month-to-month,Fiber,Credit card,Yes,No,Yes,No,35,95.01,366.4,2,1,3.8,3,1
+C00851,Metro,Month-to-month,DSL,Credit card,No,Yes,Yes,No,27,77.74,179.3,0,1,0.9,3,0
+C01130,Coastal,Two year,None,Electronic check,Yes,Yes,Yes,No,51,34.17,14.0,0,3,1.6,4,0
+C01196,Coastal,Month-to-month,None,Bank transfer,Yes,Yes,Yes,No,13,60.0,14.7,0,0,2.3,4,1
+C01100,Regional,Month-to-month,Fiber,Mailed check,Yes,No,Yes,No,18,103.65,378.9,1,3,1.4,3,1
+C01086,Regional,Month-to-month,DSL,Bank transfer,No,No,No,No,16,70.68,194.2,1,0,1.1,2,0
+C00572,Coastal,Two year,Fiber,Electronic check,Yes,Yes,Yes,Yes,1,84.6,362.2,0,5,0.9,5,1
+C00502,Regional,One year,Fiber,Credit card,No,Yes,Yes,No,47,85.59,317.6,0,0,3.8,4,0
+C00408,Coastal,Two year,Fiber,Credit card,No,Yes,No,No,25,69.15,414.9,1,0,2.8,3,0
+C00402,Coastal,One year,Wireless,Bank transfer,No,No,Yes,No,20,51.23,135.6,0,1,1.6,2,0
+C00042,Regional,Two year,Fiber,Credit card,No,Yes,Yes,No,30,63.77,296.3,0,0,2.8,4,0
+C00342,Metro,One year,Wireless,Bank transfer,Yes,No,Yes,No,15,57.5,135.5,1,0,0.5,3,0
+C00603,Metro,One year,DSL,Electronic check,Yes,Yes,No,Yes,19,72.05,233.6,0,1,0.5,4,0
+C00997,Rural,Month-to-month,Wireless,Credit card,Yes,Yes,Yes,Yes,16,82.23,150.5,1,0,4.6,4,0
+C00936,Metro,Two year,DSL,Mailed check,No,No,Yes,No,32,53.57,274.0,0,0,1.1,3,1
+C01069,Rural,Two year,Wireless,Bank transfer,Yes,No,Yes,Yes,61,49.89,100.4,1,0,5.8,3,0
+C00597,Rural,One year,None,Bank transfer,No,Yes,No,No,46,25,9.0,1,0,3.3,3,0
+C00895,Rural,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,Yes,8,71.44,261.9,0,1,3.1,4,1
+C00636,Coastal,Month-to-month,None,Electronic check,No,No,Yes,No,3,35.2,20.3,0,5,3.0,1,1
+C00169,Regional,Two year,Fiber,Mailed check,No,Yes,Yes,No,46,57.25,370.0,3,2,0,3,0
+C01012,Metro,Month-to-month,None,Mailed check,No,No,Yes,No,3,18,29.1,1,0,1.0,1,1
+C00333,Metro,Month-to-month,DSL,Credit card,Yes,Yes,No,No,8,84.72,330.7,1,1,2.5,4,0
+C01014,Coastal,One year,Fiber,Credit card,No,Yes,Yes,No,31,79.99,379.5,0,0,2.0,4,0
+C01108,Regional,Two year,Fiber,Mailed check,Yes,Yes,Yes,No,57,88.11,453.7,0,1,2.4,5,0
+C00310,Rural,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,11,87.63,494.9,0,2,3.7,2,1
+C00793,Regional,Month-to-month,Wireless,Credit card,No,Yes,Yes,No,15,80.56,115.6,0,1,3.7,4,0
+C00165,Coastal,One year,Fiber,Credit card,No,Yes,No,No,21,103.05,511.0,1,2,0.9,3,0
+C00186,Rural,Month-to-month,None,Electronic check,No,Yes,No,No,13,43.24,43.3,2,5,0,2,0
+C01200,Metro,Two year,Fiber,Bank transfer,Yes,Yes,Yes,No,27,88.48,484.2,1,0,1.1,4,0
+C01008,Coastal,Two year,DSL,Mailed check,No,Yes,Yes,No,42,49.11,166.6,0,0,3.2,3,0
+C00383,Coastal,Month-to-month,Fiber,Electronic check,Yes,Yes,No,Yes,1,109.64,479.0,2,0,1.8,5,1
+C01064,Rural,One year,Fiber,Bank transfer,No,Yes,Yes,Yes,15,104.62,621.5,0,1,5.8,3,0
+C00671,Rural,One year,DSL,Electronic check,No,Yes,Yes,No,41,64.57,95.4,1,2,0,4,0
+C01030,Metro,Two year,Fiber,Electronic check,Yes,No,No,Yes,41,87.11,468.0,1,1,1.3,4,0
+C00371,Coastal,Month-to-month,Fiber,Electronic check,No,No,No,No,3,94.99,469.4,1,1,2.9,2,1
+C00051,Metro,One year,Fiber,Credit card,Yes,Yes,No,No,29,85.37,501.5,0,1,3.6,5,0
+C00431,Regional,One year,DSL,Mailed check,Yes,Yes,Yes,No,33,83.23,281.3,0,2,1.2,5,0
+C00923,Regional,Two year,Fiber,Mailed check,Yes,Yes,Yes,No,24,74.5,345.5,1,0,1.7,4,0
+C00244,Metro,Month-to-month,Fiber,Credit card,Yes,No,No,No,8,89.82,324.1,1,2,2.0,4,1
+C00068,Metro,Month-to-month,Wireless,Bank transfer,No,Yes,No,No,26,62.77,57.0,0,1,1.3,3,0
+C00339,Regional,One year,Fiber,Bank transfer,Yes,No,Yes,No,32,101.91,350.8,0,1,0,4,1
+C00924,Metro,Month-to-month,DSL,Credit card,Yes,Yes,No,No,30,100.13,225.7,2,1,1.5,4,0
+C00553,Metro,Month-to-month,DSL,Electronic check,No,Yes,Yes,Yes,18,69.84,149.0,1,3,1.0,3,0
+C00976,Metro,One year,Fiber,Credit card,No,No,Yes,No,42,63.55,296.8,0,0,1.8,3,1
+C00307,Metro,Month-to-month,None,Bank transfer,No,No,Yes,Yes,9,42.22,5.6,1,2,2.0,1,1
+C00767,Metro,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,15,92.9,532.5,2,1,2.9,3,1
+C00448,Metro,Month-to-month,Fiber,Bank transfer,Yes,Yes,No,No,19,106.86,333.6,3,0,1.5,5,0
+C00908,Metro,Month-to-month,Fiber,Electronic check,Yes,Yes,Yes,No,32,92.89,404.2,3,0,2.8,4,0
+C00816,Metro,Month-to-month,Wireless,Electronic check,Yes,Yes,Yes,No,12,91.61,179.0,0,1,2.0,5,0
+C00249,Metro,Month-to-month,Fiber,Electronic check,No,No,Yes,No,26,90.63,413.9,1,0,0.9,2,0
+C00682,Coastal,One year,Wireless,Mailed check,No,No,Yes,No,1,44.06,104.4,0,1,2.5,2,0
+C00168,Metro,One year,DSL,Mailed check,No,No,No,No,14,86.1,161.6,1,2,0.2,2,1
+C00884,Metro,Two year,Fiber,Mailed check,No,Yes,Yes,No,41,64.98,249.4,0,1,0.0,3,0
+C00987,Metro,Month-to-month,DSL,Credit card,Yes,No,No,No,2,53.29,221.8,1,0,2.0,3,0
+C00340,Metro,Month-to-month,Fiber,Credit card,No,Yes,No,No,30,88.8,403.1,2,2,0.8,3,1
+C00152,Coastal,Month-to-month,Wireless,Credit card,Yes,Yes,Yes,Yes,19,60.54,183.6,1,0,0.7,4,1
+C00481,Rural,One year,Fiber,Credit card,Yes,Yes,Yes,No,35,104.23,408.2,1,1,1.1,5,0
+C00053,Metro,One year,DSL,Bank transfer,Yes,No,Yes,No,23,91.68,193.7,0,0,1.1,4,1
+C00008,Metro,One year,Fiber,Electronic check,Yes,No,Yes,No,31,90.45,433.4,2,1,2.0,3,0
+C00690,Coastal,One year,Wireless,Electronic check,No,No,No,No,39,55.38,137.8,0,2,0,3,0
+C00306,Regional,One year,DSL,Credit card,No,Yes,No,No,17,73.92,242.5,0,4,3.4,4,1
+C00356,Metro,One year,Fiber,Electronic check,Yes,Yes,Yes,Yes,5,100.92,146.8,0,1,0.8,4,1
+C00274,Metro,Two year,Fiber,Bank transfer,Yes,No,No,No,36,91.8,226.2,0,1,2.2,3,0
+C00748,Metro,One year,None,Electronic check,Yes,Yes,No,No,29,52.65,28.2,1,2,0.2,3,0
+C00800,Metro,Two year,Fiber,Bank transfer,Yes,No,Yes,Yes,39,53.47,267.6,0,1,1.3,4,0
+C00560,Rural,Month-to-month,Fiber,Electronic check,Yes,Yes,Yes,No,14,94.98,446.9,1,4,2.0,4,1
+C00974,Metro,Month-to-month,Fiber,Bank transfer,Yes,No,No,No,15,78.13,321.0,0,1,4.3,3,0
+C00155,Metro,One year,Fiber,Credit card,Yes,No,Yes,No,23,87.72,339.5,0,2,2.0,3,0
+C01185,Metro,One year,Fiber,Credit card,No,Yes,Yes,Yes,39,96.94,240.2,0,0,1.4,3,0
+C00135,Metro,One year,DSL,Mailed check,Yes,Yes,Yes,Yes,27,86.73,185.6,1,0,0.5,4,0
+C00385,Metro,Two year,Wireless,Bank transfer,Yes,Yes,No,No,53,70.75,215.6,0,2,1.7,4,0
+C00190,Metro,Two year,DSL,Bank transfer,No,Yes,Yes,No,31,75.71,273.1,0,0,0.7,3,0
+C00993,Metro,Two year,None,Electronic check,No,Yes,Yes,No,72,18,27.6,0,1,0,2,1
+C00637,Coastal,One year,DSL,Electronic check,Yes,Yes,No,No,17,95.15,211.9,0,1,2.1,5,0
+C00193,Coastal,Month-to-month,Wireless,Mailed check,Yes,Yes,Yes,Yes,22,85.93,22.5,0,0,1.4,4,1
+C00702,Coastal,Month-to-month,DSL,Electronic check,Yes,No,No,No,1,62.08,270.4,0,2,1.9,3,1
+C00632,Coastal,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,11,79.71,502.9,0,0,1.3,3,0
+C00348,Metro,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,11,82.78,367.3,0,2,2.1,3,1
+C00140,Rural,Two year,Wireless,Electronic check,Yes,No,Yes,No,20,35.69,126.0,0,0,0.9,3,0
+C00542,Metro,Month-to-month,Fiber,Credit card,Yes,No,No,No,22,91.32,541.2,1,2,0.7,4,0
+C00834,Regional,Two year,Wireless,Electronic check,Yes,No,Yes,Yes,69,46.76,127.4,0,2,0.6,4,0
+C00122,Coastal,One year,Fiber,Bank transfer,Yes,Yes,Yes,No,27,106.59,248.1,0,3,1.5,4,0
+C00996,Regional,Month-to-month,Fiber,Bank transfer,Yes,No,Yes,No,7,86.97,356.5,0,0,4.6,3,1
+C00855,Regional,One year,DSL,Credit card,No,No,Yes,Yes,17,62.28,28.8,0,0,3.2,2,0
+C00328,Coastal,Month-to-month,Fiber,Bank transfer,Yes,No,Yes,No,36,103.08,63.2,0,0,2.0,3,1
+C00581,Regional,One year,Fiber,Electronic check,Yes,No,Yes,Yes,52,115.68,591.8,0,1,0.9,3,1
+C00563,Coastal,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,No,22,63.03,169.1,0,0,1.3,4,1
+C00104,Rural,Month-to-month,DSL,Bank transfer,Yes,No,No,No,4,81.63,146.3,2,0,3.7,3,1
+C00373,Regional,One year,Wireless,Electronic check,No,No,No,No,20,43.59,128.8,0,0,1.6,2,0
+C00375,Regional,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,22,82.1,499.6,0,1,2.1,3,0
+C00827,Metro,Two year,Fiber,Credit card,No,Yes,Yes,No,58,89.73,101.4,1,1,2.5,3,1
+C00441,Rural,Month-to-month,Fiber,Mailed check,Yes,Yes,No,Yes,27,101.0,459.2,2,0,5.3,4,0
+C00897,Regional,One year,Wireless,Mailed check,Yes,No,Yes,No,37,60.43,32.3,0,3,1.9,4,0
+C00451,Metro,Month-to-month,Wireless,Credit card,No,No,No,No,10,46.73,62.3,0,0,3.3,2,1
+C00736,Rural,Month-to-month,DSL,Bank transfer,Yes,No,No,Yes,2,76.3,252.0,2,0,3.5,4,0
+C00494,Coastal,Month-to-month,Fiber,Credit card,Yes,No,No,No,12,81.48,383.6,1,0,1.3,3,0
+C00815,Rural,Month-to-month,DSL,Credit card,No,No,Yes,No,8,55.77,259.7,0,0,1.9,3,0
+C00206,Metro,One year,Fiber,Electronic check,No,Yes,Yes,No,34,84.13,471.5,5,0,0.5,3,0
+C00281,Metro,Two year,Fiber,Electronic check,Yes,Yes,Yes,No,42,110.34,199.7,0,0,0,5,0
+C00747,Coastal,Month-to-month,Fiber,Credit card,Yes,No,Yes,No,1,110.08,697.7,0,0,3.4,3,1
+C00789,Coastal,Month-to-month,Wireless,Mailed check,Yes,No,Yes,No,14,67.27,37.5,0,1,0.9,3,0
+C00268,Rural,Month-to-month,None,Credit card,Yes,Yes,No,No,1,37,29.0,1,0,4.4,3,1
+C00911,Metro,Month-to-month,DSL,Bank transfer,No,No,Yes,No,14,69.29,137.3,0,0,0.5,3,0
+C00750,Regional,Month-to-month,Wireless,Bank transfer,No,Yes,Yes,Yes,19,52.77,48.7,0,1,1.2,3,1
+C00659,Rural,Month-to-month,Fiber,Electronic check,Yes,Yes,Yes,No,23,111.76,408.2,3,1,2.9,4,1
+C00491,Regional,Month-to-month,DSL,Electronic check,No,Yes,Yes,No,32,71.98,209.8,1,0,3.4,3,0
+C00158,Metro,One year,Fiber,Mailed check,No,No,Yes,No,30,113.75,501.0,0,0,1.9,3,0
+C00799,Regional,Month-to-month,None,Bank transfer,No,Yes,Yes,No,7,37.29,27.6,0,3,1.6,3,0
+C00338,Coastal,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,19,104.9,338.6,3,0,2.8,2,1
+C00386,Rural,One year,DSL,Electronic check,Yes,Yes,No,No,10,88.42,197.2,0,0,1.8,5,1
+C01017,Regional,Month-to-month,Fiber,Credit card,No,Yes,No,Yes,28,108.62,414.6,2,0,2.5,4,1
+C00358,Metro,One year,None,Mailed check,Yes,No,Yes,No,13,45.56,29.7,0,0,0.5,3,0
+C00201,Metro,Month-to-month,Wireless,Electronic check,Yes,No,Yes,No,11,63.76,25.1,5,1,0.4,4,0
+C00156,Coastal,One year,Wireless,Electronic check,No,Yes,No,Yes,11,63.08,130.5,0,1,3.1,4,1
+C00508,Metro,Month-to-month,Wireless,Credit card,Yes,No,Yes,No,9,62.68,148.1,0,0,0.6,4,1
+C00519,Coastal,One year,None,Bank transfer,Yes,No,Yes,Yes,20,30,23.4,0,0,1.9,3,0
+C00280,Metro,One year,DSL,Electronic check,No,No,No,No,1,65.55,182.1,0,1,1.2,3,0
+C00967,Metro,Month-to-month,Wireless,Credit card,Yes,No,No,No,21,57.4,74.7,0,1,1.6,3,0
+C00438,Metro,Month-to-month,DSL,Credit card,Yes,No,No,No,22,85.49,213.1,0,0,2.0,4,0
+C00754,Regional,Month-to-month,Wireless,Credit card,Yes,Yes,Yes,No,16,60.04,111.6,0,0,0.8,4,1
+C01060,Regional,Month-to-month,DSL,Bank transfer,Yes,Yes,Yes,No,12,106.06,63.8,0,2,0.1,4,1
+C00723,Metro,Month-to-month,Wireless,Electronic check,Yes,Yes,Yes,Yes,24,47.74,91.9,0,0,2.3,4,1
+C00778,Coastal,One year,Fiber,Electronic check,Yes,Yes,Yes,No,20,102.82,451.5,0,0,2.3,4,0
+C00242,Regional,One year,Wireless,Bank transfer,Yes,Yes,No,Yes,1,67.97,43.7,0,2,3.3,5,1
+C00468,Coastal,Month-to-month,DSL,Electronic check,No,No,No,Yes,11,65.87,76.3,0,1,0.7,2,0
+C00490,Coastal,Month-to-month,Wireless,Credit card,Yes,No,Yes,No,18,61.17,152.4,0,0,1.2,3,1
+C00115,Metro,Month-to-month,Wireless,Bank transfer,Yes,No,Yes,Yes,20,57.9,92.7,2,0,0.9,4,1
+C00751,Rural,Two year,Fiber,Electronic check,Yes,Yes,Yes,No,59,89.47,239.1,0,2,1.5,5,0
+C00719,Coastal,Month-to-month,DSL,Credit card,No,Yes,Yes,No,5,75.25,213.6,0,0,1.3,3,0
+C00680,Metro,Two year,None,Credit card,Yes,Yes,Yes,No,15,45.56,22.5,1,0,1.7,4,0
+C01070,Metro,Month-to-month,Fiber,Electronic check,Yes,Yes,Yes,Yes,13,94.21,390.9,0,0,2.5,4,1
+C00394,Regional,One year,Fiber,Electronic check,Yes,No,No,Yes,5,90.76,478.2,1,3,2.4,3,1
+C00910,Regional,Month-to-month,None,Bank transfer,Yes,Yes,No,No,12,37,15.6,0,2,4.4,3,0
+C00319,Regional,Month-to-month,Fiber,Bank transfer,No,No,No,No,24,67.97,227.5,0,1,3.8,2,1
+C00057,Regional,Month-to-month,DSL,Electronic check,No,Yes,No,No,5,59.56,205.7,0,3,3.1,4,1
+C00935,Regional,Month-to-month,Wireless,Credit card,Yes,Yes,No,Yes,21,62.09,117.1,0,0,0.7,4,0
+C00250,Metro,Month-to-month,Wireless,Electronic check,Yes,No,Yes,No,5,38.02,122.2,0,1,1.5,4,1
+C00941,Metro,One year,DSL,Electronic check,No,No,Yes,No,21,66.72,23.2,0,5,1.8,2,1
+C01184,Coastal,Month-to-month,DSL,Mailed check,Yes,Yes,No,No,1,82.07,139.7,0,2,2.2,5,1
+C00795,Metro,One year,Wireless,Mailed check,No,Yes,Yes,No,44,61.78,101.7,1,0,1.1,3,0
+C00673,Regional,Two year,Fiber,Credit card,Yes,No,Yes,No,25,89.32,553.6,0,5,3.8,3,0
+C01071,Rural,Month-to-month,Fiber,Electronic check,No,Yes,No,Yes,27,83.94,484.4,0,1,4.2,3,0
+C00112,Coastal,One year,Fiber,Credit card,No,Yes,Yes,No,29,93.05,362.3,1,0,3.4,4,0
+C00703,Metro,Month-to-month,Wireless,Credit card,No,No,Yes,No,22,26.77,118.7,0,0,2.1,3,0
+C00166,Coastal,Two year,Fiber,Electronic check,No,Yes,Yes,No,29,89.85,360.6,0,1,4.1,3,0
+C00384,Regional,One year,Fiber,Bank transfer,No,No,No,No,30,57.3,147.9,0,0,2.3,3,0
+C00775,Coastal,Two year,Fiber,Credit card,Yes,No,Yes,No,47,82.92,357.9,0,1,1.3,3,0
+C00666,Coastal,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,Yes,22,111.25,433.5,0,0,1.9,5,0
+C00579,Metro,Month-to-month,Wireless,Credit card,Yes,Yes,No,Yes,14,83.99,82.1,0,0,2.5,4,0
+C00876,Regional,Month-to-month,Fiber,Credit card,No,Yes,No,Yes,11,61.79,319.9,0,1,3.2,4,0
+C00644,Rural,Month-to-month,Fiber,Bank transfer,Yes,No,No,No,7,92.77,495.9,2,0,3.3,4,1
+C00239,Regional,Month-to-month,DSL,Bank transfer,No,No,No,Yes,1,64.13,273.4,1,0,3.1,2,0
+C00771,Coastal,One year,DSL,Credit card,No,Yes,Yes,No,44,76.84,292.5,0,0,4.6,4,0
+C00233,Metro,Month-to-month,Wireless,Credit card,No,Yes,No,No,18,30.9,64.0,0,0,1.4,3,0
+C00287,Coastal,Two year,DSL,Credit card,No,No,Yes,No,42,60.11,126.4,0,0,2.8,2,0
+C00459,Coastal,Month-to-month,Fiber,Credit card,No,Yes,No,No,11,92.9,285.3,0,2,2.3,4,0
+C00607,Metro,One year,Fiber,Electronic check,Yes,No,Yes,No,22,97.95,467.7,1,0,1.4,4,0
+C00343,Regional,Month-to-month,Fiber,Electronic check,No,Yes,No,Yes,24,98.28,599.7,0,4,4.0,3,1
+C00366,Regional,Two year,Wireless,Electronic check,Yes,Yes,Yes,No,66,51.38,185.0,0,0,1.4,4,0
+C00089,Regional,Month-to-month,Wireless,Electronic check,Yes,Yes,Yes,No,2,62.92,87.2,2,1,0.7,5,1
+C00903,Regional,Month-to-month,Fiber,Electronic check,No,No,Yes,No,7,77.05,418.9,0,1,2.2,2,1
+C00952,Regional,Month-to-month,DSL,Electronic check,No,Yes,No,No,25,74.16,109.2,0,2,0,3,1
+C01169,Coastal,One year,Fiber,Bank transfer,Yes,No,Yes,Yes,16,118.88,359.7,0,0,2.1,3,1
+C00787,Coastal,One year,Wireless,Mailed check,Yes,No,Yes,No,25,56.92,129.4,0,0,2.1,4,0
+C00175,Metro,Month-to-month,Fiber,Credit card,Yes,No,No,No,1,82.18,215.8,1,2,1.3,3,1
+C01150,Regional,One year,Fiber,Bank transfer,Yes,Yes,Yes,No,23,91.64,464.1,0,3,1.7,4,0
+C01190,Regional,Month-to-month,Fiber,Credit card,No,Yes,Yes,No,1,99.34,642.9,0,0,3.0,3,1
+C00616,Coastal,Month-to-month,Fiber,Bank transfer,No,No,Yes,No,8,89.47,321.9,0,0,1.5,2,0
+C00054,Coastal,Month-to-month,Fiber,Credit card,No,No,No,Yes,15,79.31,688.6,1,1,2.8,2,0
+C00434,Metro,Month-to-month,Wireless,Mailed check,No,No,No,No,25,59.88,207.6,1,0,0.6,2,0
+C00973,Regional,Month-to-month,DSL,Mailed check,No,Yes,No,No,9,69.22,173.6,0,1,3.7,4,0
+C00633,Metro,One year,None,Electronic check,Yes,No,Yes,No,21,30,23.9,1,0,1.0,2,1
+C00453,Metro,Month-to-month,DSL,Bank transfer,No,Yes,No,No,8,41.18,127.8,0,1,1.0,3,1
+C00849,Rural,Two year,DSL,Electronic check,No,Yes,No,No,15,60.42,106.8,0,1,3.4,3,1
+C00838,Regional,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,No,22,99.12,408.7,2,0,1.0,4,1
+C00106,Regional,One year,DSL,Bank transfer,No,No,Yes,No,34,62.87,275.1,0,0,2.1,2,0
+C00541,Rural,Month-to-month,Wireless,Electronic check,No,No,Yes,No,3,65.97,75.2,1,2,0.7,3,1
+C01127,Metro,Two year,Wireless,Electronic check,No,No,Yes,No,37,43.88,111.5,0,3,1.1,3,0
+C00675,Coastal,Month-to-month,DSL,Bank transfer,Yes,No,No,No,1,65.74,261.4,1,0,3.0,3,1
+C01170,Metro,Month-to-month,DSL,Credit card,No,No,Yes,No,21,39.67,208.3,1,0,0.7,3,1
+C00740,Regional,Month-to-month,Fiber,Electronic check,No,No,Yes,Yes,21,68.55,351.5,1,0,1.4,3,0
+C00610,Coastal,Month-to-month,DSL,Bank transfer,No,Yes,No,No,16,54.83,259.0,0,0,1.3,3,1
+C00948,Rural,Month-to-month,Fiber,Electronic check,No,No,No,No,21,101.51,501.2,2,2,2.6,2,1
+C00829,Rural,Month-to-month,Wireless,Credit card,No,Yes,Yes,Yes,1,25,72.9,3,0,1.4,4,1
+C01006,Metro,One year,DSL,Credit card,Yes,Yes,Yes,No,29,70.3,246.9,0,2,1.1,4,0
+C00493,Regional,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,15,93.99,426.0,0,0,0.5,3,0
+C01091,Coastal,One year,Wireless,Electronic check,Yes,Yes,Yes,Yes,17,73.66,53.7,0,1,0.6,5,0
+C01180,Regional,Two year,None,Bank transfer,No,Yes,Yes,No,66,28.01,24.0,0,3,3.6,2,0
+C00766,Coastal,Month-to-month,DSL,Electronic check,No,No,No,No,6,57.76,97.3,0,0,1.3,2,0
+C00074,Coastal,One year,Fiber,Electronic check,Yes,Yes,Yes,No,18,94.55,381.4,0,0,1.8,5,0
+C00806,Regional,Month-to-month,Wireless,Mailed check,No,No,Yes,No,11,56.87,140.6,0,0,1.2,3,0
+C00947,Metro,One year,Wireless,Credit card,Yes,No,Yes,No,12,47.85,123.7,0,0,1.4,4,0
+C00467,Coastal,Month-to-month,Fiber,Credit card,No,Yes,No,No,1,83.68,646.6,3,1,2.3,4,1
+C00055,Coastal,Two year,Fiber,Mailed check,Yes,No,Yes,No,36,96.16,383.7,0,3,2.7,4,1
+C01089,Coastal,Two year,DSL,Bank transfer,No,No,Yes,No,43,69.44,159.2,0,0,0.9,2,0
+C00704,Rural,Month-to-month,DSL,Bank transfer,No,Yes,Yes,No,14,63.53,117.2,1,0,2.1,3,0
+C00670,Metro,Month-to-month,Wireless,Mailed check,No,No,Yes,No,5,34.9,57.3,0,2,0,3,1
+C00706,Coastal,Two year,DSL,Electronic check,Yes,No,Yes,No,37,40.58,173.9,0,1,1.2,3,0
+C00922,Regional,One year,Wireless,Mailed check,Yes,Yes,Yes,No,20,72.68,128.2,0,3,2.5,5,1
+C00479,Regional,Month-to-month,DSL,Electronic check,No,No,Yes,No,3,74.56,251.2,1,1,2.6,2,1
+C00784,Regional,Month-to-month,None,Mailed check,No,Yes,Yes,No,13,27.01,12.9,3,1,2.1,2,0
+C00530,Rural,Month-to-month,Fiber,Electronic check,Yes,No,Yes,No,19,110.15,266.3,1,4,1.4,3,1
+C00259,Coastal,Two year,Fiber,Credit card,Yes,Yes,Yes,No,72,103.91,404.6,2,1,3.7,4,1
+C00521,Coastal,Month-to-month,Wireless,Electronic check,Yes,Yes,Yes,No,25,71.37,163.3,0,1,0.3,4,0
+C00735,Coastal,One year,Fiber,Electronic check,Yes,Yes,No,No,1,111.8,373.1,0,0,2.7,4,1
+C01039,Metro,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,No,3,92.31,242.1,0,1,0.9,5,1
+C00937,Regional,Month-to-month,Wireless,Mailed check,Yes,No,Yes,No,3,54.36,132.3,0,0,1.2,3,1
+C00896,Regional,One year,Wireless,Credit card,Yes,No,Yes,No,42,52.84,144.3,0,2,3.0,3,0
+C00808,Rural,One year,Fiber,Credit card,No,Yes,No,Yes,19,77.17,453.6,0,2,0.4,3,1
+C00575,Regional,Month-to-month,Wireless,Bank transfer,Yes,Yes,Yes,No,7,58.05,93.8,0,0,2.6,5,1
+C00695,Regional,Month-to-month,Fiber,Credit card,No,No,Yes,No,12,88.93,311.1,1,1,3.6,3,0
+C00805,Metro,Two year,Fiber,Credit card,No,No,Yes,No,36,79.11,566.6,1,1,1.1,2,0
+C00476,Regional,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,Yes,18,133.2,350.3,1,0,0,4,0
+C01065,Regional,One year,Fiber,Electronic check,No,No,No,Yes,19,86.1,615.1,1,0,2.5,2,1
+C00534,Regional,Month-to-month,Fiber,Electronic check,No,No,No,No,27,105.4,236.9,3,1,1.8,2,1
+C00298,Regional,One year,None,Bank transfer,No,Yes,Yes,No,15,25,10.9,0,4,1.3,2,0
+C00452,Metro,One year,Fiber,Credit card,No,No,Yes,No,50,83.79,438.4,0,0,1.2,2,1
+C00788,Rural,One year,Fiber,Mailed check,No,No,Yes,Yes,58,80.92,445.4,0,2,2.5,2,0
+C00063,Rural,Month-to-month,Fiber,Mailed check,No,No,No,Yes,9,103.98,398.2,0,0,2.3,2,1
+C00022,Coastal,One year,Fiber,Bank transfer,No,Yes,Yes,No,43,80.05,340.6,0,0,2.9,3,0
+C00700,Metro,One year,Fiber,Credit card,No,Yes,No,No,19,103.83,213.1,1,1,1.5,3,1
+C00398,Regional,One year,Wireless,Bank transfer,Yes,No,No,No,66,80.93,87.8,0,0,0.9,4,0
+C00956,Regional,Month-to-month,Fiber,Credit card,No,No,Yes,No,13,51.24,400.7,0,0,1.5,2,1
+C00406,Coastal,Month-to-month,Fiber,Mailed check,Yes,No,No,No,17,109.93,481.5,2,0,3.6,4,1
+C00925,Metro,One year,DSL,Credit card,Yes,Yes,Yes,No,19,101.7,83.4,0,0,1.3,5,0
+C01059,Regional,One year,Fiber,Mailed check,No,Yes,Yes,No,36,93.96,432.1,0,3,1.4,4,0
+C00927,Metro,One year,DSL,Credit card,No,No,Yes,No,19,60.39,212.7,0,2,1.3,2,0
+C00097,Metro,Month-to-month,Wireless,Electronic check,Yes,Yes,Yes,No,21,66.47,53.8,1,0,1.0,4,1
+C00417,Regional,Month-to-month,DSL,Mailed check,Yes,No,Yes,No,28,86.63,182.4,0,0,0.9,3,0
+C00303,Regional,One year,DSL,Electronic check,No,No,Yes,No,27,45.67,161.0,0,0,0,2,0
+C00341,Coastal,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,14,69.81,213.6,1,1,1.0,4,0
+C00989,Coastal,Month-to-month,None,Bank transfer,Yes,Yes,Yes,No,3,47.01,46.8,1,1,1.4,3,1
+C00416,Metro,Two year,Wireless,Bank transfer,Yes,No,Yes,Yes,50,61.55,73.4,1,5,1.4,3,0
+C00618,Regional,Month-to-month,DSL,Bank transfer,No,No,Yes,No,21,87.41,373.1,0,0,3.3,2,0
+C00547,Rural,One year,Wireless,Bank transfer,No,No,No,No,11,52.42,17.5,2,0,2.9,2,0
+C00772,Regional,One year,DSL,Electronic check,No,Yes,No,No,1,56.35,131.9,0,0,3.6,3,0
+C00084,Rural,Month-to-month,Fiber,Electronic check,Yes,Yes,Yes,No,12,79.85,236.1,3,2,3.7,5,1
+C01123,Rural,One year,Fiber,Credit card,No,No,No,No,23,84.3,359.8,2,5,1.9,2,1
+C00090,Metro,Month-to-month,DSL,Credit card,Yes,No,Yes,No,18,97.45,213.8,1,0,0.2,4,0
+C00248,Coastal,One year,Wireless,Bank transfer,Yes,No,No,No,1,48.49,52.6,1,0,2.6,3,0
+C00407,Metro,Two year,Fiber,Electronic check,Yes,Yes,Yes,No,41,106.57,410.7,0,1,2.2,5,0
+C00501,Regional,Month-to-month,Fiber,Credit card,No,Yes,Yes,Yes,12,92.88,375.4,1,0,4.0,4,1
+C00357,Metro,Month-to-month,Fiber,Mailed check,No,Yes,Yes,No,9,72.57,595.3,2,1,1.0,3,0
+C00792,Metro,Two year,Fiber,Credit card,Yes,No,No,No,24,70.94,312.8,1,1,1.3,4,0
+C00570,Metro,Month-to-month,Fiber,Credit card,No,Yes,Yes,No,24,106.77,463.2,2,3,1.2,3,0
+C00662,Metro,Month-to-month,DSL,Credit card,No,No,No,No,5,73.26,184.7,3,0,1.5,2,1
+C01078,Coastal,One year,Fiber,Mailed check,Yes,Yes,Yes,No,2,93.71,364.3,0,0,1.7,5,0
+C00240,Metro,One year,Wireless,Bank transfer,Yes,Yes,No,No,12,65.93,196.7,0,0,2.6,5,0
+C00360,Metro,Month-to-month,None,Bank transfer,No,Yes,Yes,No,14,25,10.0,1,0,1.1,2,0
+C00760,Coastal,Month-to-month,Fiber,Bank transfer,Yes,Yes,No,No,5,98.26,425.6,1,1,2.2,5,0
+C00437,Metro,Month-to-month,Fiber,Electronic check,No,No,No,Yes,20,86.9,499.4,0,0,2.1,3,1
+C00172,Metro,Month-to-month,DSL,Bank transfer,No,Yes,No,No,8,79.29,118.4,1,0,2.0,3,0
+C00954,Coastal,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,No,17,97.65,356.8,0,3,2.2,4,1
+C00018,Metro,Two year,Wireless,Electronic check,Yes,Yes,Yes,No,53,67.99,166.6,0,1,1.1,4,0
+C00395,Rural,Two year,Fiber,Credit card,Yes,No,Yes,No,25,81.0,475.9,1,1,3.7,3,0
+C01001,Coastal,Two year,Fiber,Credit card,Yes,Yes,Yes,No,32,85.28,386.0,0,1,2.5,5,0
+C00859,Metro,Month-to-month,DSL,Credit card,No,Yes,Yes,Yes,1,84.13,100.2,0,0,1.0,3,1
+C00853,Regional,Two year,DSL,Bank transfer,No,Yes,Yes,No,36,74.99,222.3,0,0,4.7,3,0
+C00415,Metro,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,No,9,86.38,191.9,0,3,1.3,5,0
+C00646,Rural,Month-to-month,None,Electronic check,Yes,No,No,No,1,30,19.9,4,1,2.7,3,1
+C00191,Metro,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,No,9,85.59,174.9,0,5,0,4,1
+C00092,Coastal,Two year,DSL,Mailed check,No,Yes,Yes,No,20,39.39,159.7,0,1,2.2,3,0
+C00296,Metro,Month-to-month,Wireless,Credit card,No,No,Yes,No,1,34.76,144.0,4,2,2.3,3,1
+C01004,Coastal,Month-to-month,DSL,Credit card,Yes,Yes,No,No,11,89.0,214.8,0,4,1.5,4,1
+C01165,Coastal,Month-to-month,DSL,Credit card,No,Yes,Yes,No,11,69.02,146.8,0,0,1.9,4,0
+C01179,Metro,Month-to-month,Wireless,Bank transfer,Yes,No,Yes,No,12,59.79,99.6,1,0,2.2,3,0
+C00110,Metro,Month-to-month,Fiber,Electronic check,No,No,Yes,No,9,70.59,494.4,1,0,1.1,2,1
+C01095,Coastal,One year,Fiber,Mailed check,No,No,No,Yes,18,71.18,520.4,2,0,1.5,2,1
+C00253,Coastal,One year,Fiber,Credit card,No,Yes,No,No,36,90.77,126.0,0,0,1.5,3,0
+C00236,Regional,Month-to-month,DSL,Electronic check,No,Yes,Yes,No,5,96.08,264.4,0,5,2.6,4,1
+C00833,Regional,Month-to-month,Fiber,Credit card,Yes,No,Yes,No,13,108.54,420.5,0,1,2.6,4,0
+C01145,Metro,Two year,Fiber,Bank transfer,Yes,No,Yes,No,68,90.74,356.4,0,0,1.4,3,0
+C01163,Coastal,Month-to-month,Fiber,Credit card,No,Yes,Yes,No,24,85.17,402.7,0,0,2.3,3,1
+C01049,Metro,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,No,36,103.05,315.6,2,0,1.6,4,0
+C00898,Metro,Two year,DSL,Electronic check,Yes,Yes,Yes,No,31,75.25,200.9,0,3,1.9,4,1
+C01021,Regional,Two year,None,Electronic check,Yes,Yes,No,No,51,50.67,29.6,0,0,0.9,3,0
+C00643,Coastal,One year,Wireless,Electronic check,Yes,Yes,Yes,No,34,43.42,69.3,0,1,3.0,4,0
+C01002,Metro,Two year,Fiber,Credit card,Yes,Yes,Yes,Yes,58,89.74,331.6,0,0,1.9,4,1
+C00265,Metro,Month-to-month,Fiber,Electronic check,No,No,Yes,No,5,83.62,736.5,1,3,1.1,2,1
+C00272,Coastal,Month-to-month,DSL,Bank transfer,No,Yes,Yes,Yes,23,44.3,192.8,2,1,1.5,3,1
+C00461,Regional,Two year,Fiber,Electronic check,No,Yes,Yes,No,26,77.27,395.3,0,1,4.5,4,0
+C00220,Coastal,Month-to-month,Fiber,Bank transfer,Yes,No,Yes,No,11,91.38,353.9,1,0,1.7,3,1
+C00228,Metro,One year,Wireless,Mailed check,Yes,No,Yes,Yes,47,58.27,58.3,0,2,1.1,3,1
+C01024,Metro,One year,Fiber,Credit card,Yes,Yes,No,No,39,96.66,650.9,2,4,2.1,4,1
+C00275,Rural,Month-to-month,Fiber,Bank transfer,No,Yes,Yes,No,20,87.01,348.2,0,5,4.8,3,1
+C00822,Regional,One year,DSL,Credit card,No,No,No,No,22,85.77,64.1,0,0,3.4,3,1
+C00056,Metro,One year,Wireless,Credit card,Yes,No,Yes,No,28,46.93,63.8,0,1,1.5,4,1
+C01077,Rural,Month-to-month,Fiber,Bank transfer,Yes,Yes,No,Yes,6,103.11,347.5,1,3,0.9,5,1
+C00615,Metro,Month-to-month,Fiber,Electronic check,Yes,No,No,Yes,13,94.28,211.6,1,0,3.7,3,0
+C00484,Coastal,Month-to-month,DSL,Mailed check,No,Yes,Yes,No,24,69.87,183.8,0,0,2.4,3,1
+C00678,Coastal,Month-to-month,Fiber,Electronic check,No,Yes,Yes,Yes,11,76.23,497.9,1,0,1.6,3,0
+C00964,Metro,Two year,DSL,Electronic check,Yes,No,Yes,No,33,50.44,354.1,0,3,1.4,3,0
+C00469,Coastal,Month-to-month,Wireless,Credit card,No,Yes,Yes,Yes,20,63.84,107.3,1,2,3.3,3,0
+C01116,Rural,Two year,DSL,Mailed check,No,Yes,Yes,No,51,48.41,89.4,0,1,2.5,3,0
+C00811,Metro,One year,Wireless,Credit card,Yes,Yes,Yes,No,29,63.42,194.6,0,2,1.4,5,0
+C00887,Metro,Month-to-month,Fiber,Bank transfer,Yes,No,No,Yes,17,79.59,332.2,2,0,2.9,3,1
+C00769,Regional,Two year,DSL,Mailed check,No,Yes,Yes,No,33,64.36,234.8,1,2,1.5,4,0
+C00279,Coastal,Month-to-month,DSL,Bank transfer,Yes,Yes,No,No,16,80.11,250.8,0,0,2.1,4,0
+C00400,Coastal,Month-to-month,Fiber,Mailed check,No,No,Yes,No,19,84.25,601.9,4,0,3.6,2,1
+C00363,Rural,Two year,Wireless,Electronic check,Yes,Yes,No,No,21,64.62,156.1,2,5,1.5,5,1
+C00902,Coastal,Two year,Fiber,Credit card,Yes,No,Yes,No,60,85.24,370.5,0,0,0.9,4,0
+C00108,Regional,One year,Fiber,Credit card,No,Yes,Yes,No,32,98.83,329.7,0,1,1.2,3,0
+C00786,Coastal,Month-to-month,DSL,Credit card,Yes,No,No,No,17,66.3,211.2,0,0,2.8,4,0
+C00023,Regional,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,No,19,112.6,536.4,1,0,1.7,4,1
+C01151,Coastal,Month-to-month,DSL,Bank transfer,Yes,Yes,No,No,8,88.79,119.1,0,5,0.7,4,1
+C00218,Regional,One year,Wireless,Bank transfer,No,Yes,Yes,No,51,59.1,39.6,2,2,3.0,3,0
+C00905,Metro,Month-to-month,Fiber,Electronic check,No,No,No,No,18,81.02,484.4,1,3,0.7,2,1
+C00470,Metro,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,No,1,72.4,195.1,0,0,1.6,5,1
+C00516,Regional,Month-to-month,Wireless,Credit card,Yes,Yes,Yes,No,20,73.11,126.5,1,2,0.6,4,0
+C00677,Metro,One year,Wireless,Credit card,Yes,No,Yes,Yes,24,56.06,108.7,0,0,0.9,3,1
+C00304,Rural,Month-to-month,DSL,Credit card,Yes,Yes,Yes,Yes,15,82.39,159.5,1,0,3.8,4,0
+C00975,Rural,One year,DSL,Mailed check,Yes,Yes,Yes,No,24,107.56,179.3,0,0,3.1,4,0
+C00465,Metro,Month-to-month,Wireless,Mailed check,No,Yes,No,No,4,67.67,43.5,2,0,1.1,3,0
+C01139,Metro,Month-to-month,None,Bank transfer,No,No,Yes,No,14,18,34.8,1,3,0,1,0
+C01042,Metro,Month-to-month,Fiber,Electronic check,No,Yes,Yes,Yes,4,93.06,258.3,0,1,1.5,3,1
+C00282,Regional,Two year,Fiber,Bank transfer,No,No,Yes,No,32,86.17,430.2,0,0,0.5,3,1
+C00587,Regional,One year,Wireless,Credit card,No,Yes,Yes,Yes,32,55.75,164.3,0,4,2.6,3,1
+C00002,Metro,Two year,Fiber,Electronic check,Yes,No,Yes,No,39,71.24,535.4,0,3,1.5,4,0
+C01088,Metro,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,No,20,106.29,380.9,0,1,0.8,4,1
+C00370,Metro,Month-to-month,Wireless,Credit card,Yes,No,Yes,No,19,59.51,172.1,0,4,1.4,3,0
+C00515,Regional,Two year,Fiber,Mailed check,Yes,Yes,Yes,No,1,105.14,550.8,0,0,2.7,4,0
+C00951,Metro,Two year,Fiber,Bank transfer,Yes,Yes,Yes,No,51,95.09,357.8,0,0,0.3,5,0
+C00462,Metro,Month-to-month,Wireless,Electronic check,Yes,No,No,No,6,71.42,66.9,0,2,2.1,3,1
+C01107,Regional,One year,None,Bank transfer,Yes,No,Yes,No,49,34.87,11.2,0,3,1.6,2,0
+C00318,Coastal,Month-to-month,Fiber,Bank transfer,No,Yes,Yes,No,28,76.73,230.8,0,0,2.5,3,0
+C00003,Metro,Month-to-month,DSL,Bank transfer,Yes,Yes,Yes,No,5,67.81,284.5,4,1,0.0,5,1
+C01160,Coastal,Month-to-month,Fiber,Credit card,No,No,Yes,No,1,79.21,259.2,1,2,2.1,2,1
+C00839,Coastal,Month-to-month,None,Credit card,No,Yes,Yes,No,1,27.61,33.5,0,0,1.2,2,1
+C00456,Coastal,Month-to-month,Fiber,Bank transfer,No,No,No,No,1,85.56,288.0,1,3,2.7,3,1
+C01172,Rural,Two year,None,Credit card,Yes,No,No,No,30,22,31.8,0,2,1.1,2,0
+C00652,Coastal,One year,Wireless,Bank transfer,No,No,No,No,20,59.55,91.4,0,0,1.1,2,0
+C00809,Coastal,One year,Fiber,Bank transfer,Yes,No,No,No,28,86.02,676.7,0,0,2.3,4,1
+C00970,Metro,Month-to-month,DSL,Bank transfer,No,No,Yes,No,19,58.93,231.7,1,2,0,2,0
+C00238,Metro,One year,DSL,Bank transfer,No,Yes,Yes,No,4,74.77,140.0,0,0,0.9,3,1
+C01136,Metro,Month-to-month,Fiber,Credit card,Yes,No,Yes,No,4,79.33,521.9,0,0,3.2,3,1
+C00715,Regional,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,Yes,33,108.17,325.1,2,0,1.9,4,0
+C00825,Metro,Month-to-month,Fiber,Credit card,No,No,Yes,No,16,75.17,456.3,0,0,2.3,3,0
+C00351,Metro,Month-to-month,None,Mailed check,Yes,No,Yes,No,9,30,32.4,2,0,1.9,2,0
+C00010,Rural,Two year,Fiber,Bank transfer,Yes,Yes,Yes,No,54,92.13,448.1,6,1,6.5,4,0
+C01148,Rural,Month-to-month,DSL,Electronic check,No,No,No,No,1,67.76,69.9,5,4,1.1,2,1
+C01161,Regional,Two year,Fiber,Credit card,No,No,No,Yes,39,91.5,389.0,0,2,1.6,2,0
+C00649,Coastal,Month-to-month,Fiber,Credit card,No,No,Yes,No,12,89.15,428.9,6,2,1.2,2,1
+C01181,Rural,One year,DSL,Bank transfer,No,No,Yes,No,18,61.02,158.3,0,2,3.0,2,1
+C00114,Metro,Two year,Fiber,Electronic check,No,No,No,No,34,64.3,556.8,0,1,1.0,3,0
+C00107,Metro,Month-to-month,Wireless,Electronic check,No,No,Yes,Yes,21,47.09,0,0,0,0.7,3,0
+C00930,Regional,Two year,Fiber,Credit card,No,Yes,Yes,Yes,56,71.14,552.6,0,0,0,3,0
+C00920,Metro,Month-to-month,Wireless,Electronic check,No,Yes,No,Yes,1,53.07,114.0,0,0,2.1,3,1
+C01028,Regional,Month-to-month,DSL,Credit card,No,No,Yes,No,10,51.49,263.6,0,0,3.1,2,0
+C00203,Metro,Month-to-month,Fiber,Bank transfer,Yes,No,Yes,No,33,96.78,434.4,1,0,0.6,4,0
+C00096,Metro,Month-to-month,Fiber,Credit card,No,No,Yes,No,26,82.63,566.9,0,2,0.9,3,1
+C00288,Regional,Month-to-month,Fiber,Mailed check,Yes,Yes,No,No,31,81.61,295.9,4,1,0.7,4,1
+C00940,Rural,Month-to-month,Fiber,Mailed check,No,No,Yes,No,13,77.52,472.0,3,2,3.6,2,1
+C00932,Coastal,Two year,Wireless,Bank transfer,No,No,Yes,Yes,20,39.24,74.7,0,0,1.2,2,0
+C01035,Coastal,One year,DSL,Mailed check,Yes,Yes,No,No,35,80.08,363.4,1,1,1.2,4,0
+C00047,Metro,Month-to-month,Wireless,Bank transfer,Yes,No,Yes,No,17,65.0,103.9,0,2,1.4,3,0
+C01038,Regional,Month-to-month,Fiber,Credit card,No,Yes,Yes,No,17,86.35,404.5,0,2,2.5,3,0
+C00297,Metro,Month-to-month,Fiber,Credit card,Yes,No,No,Yes,4,108.79,280.7,0,0,2.0,4,0
+C00217,Coastal,Two year,Fiber,Bank transfer,Yes,No,No,No,37,106.62,480.1,0,1,1.5,3,0
+C00796,Metro,Month-to-month,Fiber,Electronic check,Yes,Yes,Yes,Yes,3,88.85,579.6,3,2,0,4,1
+C00881,Metro,Two year,DSL,Electronic check,Yes,No,No,Yes,37,52.45,268.4,0,1,1.5,3,0
+C00566,Regional,Two year,DSL,Mailed check,No,No,Yes,No,42,47.53,231.5,0,2,1.2,2,0
+C00574,Coastal,One year,Fiber,Electronic check,No,Yes,No,No,4,89.04,245.5,0,0,3.4,3,0
+C00420,Coastal,Month-to-month,Fiber,Electronic check,No,No,Yes,No,25,81.46,306.2,3,0,3.1,3,1
+C00900,Regional,Month-to-month,None,Electronic check,No,Yes,No,Yes,1,25,0,1,1,2.6,2,1
+C00744,Metro,Two year,Wireless,Credit card,No,Yes,Yes,No,72,66.77,60.1,0,4,0,4,0
+C00312,Coastal,One year,DSL,Mailed check,Yes,No,No,No,16,72.75,246.1,0,3,0,3,0
+C00147,Coastal,One year,DSL,Credit card,No,No,No,No,15,67.83,209.2,0,0,2.8,2,0
+C00614,Metro,Month-to-month,DSL,Credit card,No,Yes,No,No,33,70.3,101.4,0,0,1.8,3,0
+C00693,Metro,Month-to-month,Wireless,Bank transfer,No,No,Yes,No,6,46.64,231.6,0,2,0.9,2,1
+C00674,Rural,Month-to-month,DSL,Bank transfer,Yes,No,Yes,Yes,8,84.17,15.6,0,0,4.0,3,1
+C00388,Regional,Month-to-month,DSL,Electronic check,Yes,No,Yes,No,23,84.94,131.5,2,0,3.5,3,1
+C00323,Metro,Two year,Wireless,Bank transfer,Yes,No,Yes,Yes,12,56.97,226.4,0,1,1.8,3,0
+C00752,Regional,Two year,DSL,Electronic check,Yes,No,Yes,No,14,72.86,80.2,0,1,2.7,4,0
+C00129,Coastal,Month-to-month,Fiber,Credit card,Yes,Yes,Yes,No,15,98.87,354.0,1,0,2.5,4,0
+C00631,Rural,Two year,DSL,Electronic check,Yes,No,Yes,No,39,63.25,335.4,0,1,4.2,3,0
+C01010,Regional,Month-to-month,None,Bank transfer,Yes,Yes,Yes,Yes,17,37,36.3,0,0,1.6,3,0
+C00931,Metro,Two year,Wireless,Electronic check,Yes,No,Yes,No,72,58.52,51.5,1,4,1.6,3,0
+C00128,Metro,Two year,None,Electronic check,No,Yes,Yes,No,31,18.41,28.5,0,1,1.7,3,0
+C00763,Metro,Month-to-month,None,Bank transfer,No,No,No,No,1,18,21.8,0,2,1.4,1,0
+C00992,Regional,One year,Wireless,Electronic check,Yes,Yes,Yes,No,17,68.67,107.1,0,2,2.1,4,0
+C00514,Metro,Month-to-month,Fiber,Electronic check,No,Yes,Yes,No,1,77.29,611.4,2,1,3.1,4,1
+C00095,Coastal,Two year,DSL,Bank transfer,Yes,No,Yes,No,6,67.96,158.8,0,4,0,4,0
+C01173,Metro,One year,Fiber,Electronic check,No,Yes,Yes,No,4,97.1,503.2,1,2,2.7,3,1
+C00802,Metro,Month-to-month,None,Mailed check,No,Yes,Yes,Yes,24,25,11.1,0,1,1.8,2,0
+C00466,Regional,Month-to-month,Fiber,Electronic check,Yes,No,No,No,16,108.08,272.2,0,0,1.5,3,0
+C00271,Regional,Two year,Wireless,Credit card,Yes,No,No,Yes,15,41.23,69.8,0,3,2.3,3,0
+C01189,Regional,Month-to-month,Fiber,Credit card,Yes,No,No,No,21,79.76,236.5,1,1,3.2,3,0
+C00088,Rural,Two year,Fiber,Mailed check,Yes,Yes,No,No,64,90.65,89.0,2,0,2.5,5,0
+C00393,Coastal,Month-to-month,Fiber,Credit card,No,No,Yes,No,12,70.62,463.5,2,0,1.8,3,1
+C00007,Metro,Month-to-month,Fiber,Credit card,No,Yes,Yes,No,12,113.24,346.7,0,0,2.9,4,1
+C01117,Metro,Month-to-month,Wireless,Electronic check,Yes,No,Yes,No,10,57.02,151.7,2,3,2.3,3,1
+C00588,Metro,One year,Fiber,Electronic check,Yes,Yes,Yes,No,58,98.21,544.2,1,4,2.7,4,1
+C00686,Coastal,One year,DSL,Mailed check,No,No,Yes,No,47,80.1,282.2,0,0,0,2,0
+C01018,Regional,One year,Wireless,Credit card,No,Yes,Yes,No,23,67.2,114.9,1,0,1.5,3,0
+C00781,Metro,One year,Fiber,Bank transfer,No,No,Yes,No,20,93.53,202.2,1,3,0.2,2,0
+C00619,Coastal,Month-to-month,Fiber,Bank transfer,Yes,Yes,Yes,No,30,105.7,399.3,3,0,1.8,5,0
+C00837,Coastal,Month-to-month,DSL,Bank transfer,Yes,Yes,No,No,7,74.18,282.1,0,0,0.1,5,0
+C00807,Metro,Two year,Fiber,Bank transfer,Yes,Yes,Yes,Yes,43,106.05,295.2,0,2,1.7,4,0
+C00270,Metro,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,No,17,86.39,257.3,0,1,2.3,5,0
+C00125,Coastal,Month-to-month,DSL,Electronic check,No,Yes,No,No,32,83.93,134.0,3,0,2.8,3,0
+C00880,Regional,Month-to-month,DSL,Electronic check,Yes,Yes,No,No,10,90.62,240.7,0,1,2.3,4,1
+C00602,Coastal,Month-to-month,Fiber,Electronic check,Yes,Yes,No,No,28,104.1,528.3,1,0,0.9,5,0
+C00647,Coastal,Month-to-month,Wireless,Credit card,No,No,No,No,7,57.18,65.3,0,2,0.4,2,1
